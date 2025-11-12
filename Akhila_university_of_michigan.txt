@@ -1,0 +1,75 @@
+Akhila Thota
+Full Stack Developer
+6823050168 | akhila.t1214@gmail.com | LinkedIn | GitHub
+SUMMARY
+Results-driven Full Stack Developer with over 4 years of experience developing, maintaining, and supporting enterprise-grade web and data applications using Python, JavaScript, and Java. Skilled in REST API development, database scripting, debugging, and automation to deliver efficient, secure, and user-centric solutions. Experienced in collaborating with cross-functional teams to translate business requirements into scalable technical designs. Adept at improving performance, streamlining workflows, and maintaining systems in compliance with security, accessibility, and data integrity standards. Recognized for strong analytical thinking, clear documentation, and a proactive approach to application support and process improvement.
+TECHNICAL SKILLS
+	•	Languages: C, C++, Java (8/11/17), JavaScript (ES6+), SQL, TypeScript, Python
+	•	Frameworks/Libraries: Hibernate, JSF, React.js, Next.js, Angular, Node.js, GraphQL, PHP, Express.js
+	•	Spring Frameworks: Spring Boot, Spring MVC, Spring REST, Spring Data JPA, Spring Batch, Spring Security
+	•	J2EE Technologies: Servlets, JSP, JSTL, JavaBeans, JDBC
+	•	Web Technologies: HTML5, CSS3, Tailwind CSS, JavaScript, Bootstrap5, jQuery, Ajax, JSON, XML, Redux, Context API, XHTML, Django
+	•	Content Management Systems: WordPress, Drupal
+	•	Databases: Oracle, MySQL, PostgreSQL, MongoDB, Redis, MariaDB
+	•	Cloud & DevOps: AWS (EC2, SQS, SNS, Elastic Beanstalk, Lambda, Code Deploy, CloudWatch), GCP, Docker, Kubernetes, Jenkins, GitHub Actions
+	•	Build & Version Control: Maven, Gradle, Git, GitHub, Gitlab
+	•	Messaging: Kafka, RabbitMQ
+	•	Testing: JUnit, Mockito, TestNG, Selenium, Cypress, JMeter
+	•	Project Management: Agile, Scrum, Kanban, Jira, Confluence
+	•	Tools: IntelliJ IDEA, Visual Studio Code, Postman, Linux
+	•	Core Competencies: Data Structures, Algorithms, Networking (TCP/IP, HTTP), Object Oriented Programming, Distributed Systems, Operating Systems, Design Patterns
+PROFESSIONAL WORK EXPERIENCE 
+Ansira Partners, USA										       Aug 2024 - Present
+Full Stack Developer
+	•	Developed and maintained data-driven marketing and enterprise web applications using Python (Flask), TypeScript, and React, improving campaign management efficiency and client reporting accuracy.
+	•	Built and optimized REST APIs and microservices for data synchronization, campaign tracking, and client onboarding workflows, which increased integration throughput by 40%.
+	•	Wrote and maintained PostgreSQL stored procedures and ETL scripts to process multi-terabyte datasets, ensuring fast, reliable data retrieval for analytics dashboards.
+	•	Collaborated with DevOps to containerize applications using Docker and deploy through Jenkins CI/CD pipelines, streamlining deployment cycles and reducing production issues by 50%.
+	•	Conducted load testing and performance profiling to optimize backend responsiveness and minimize latency under peak traffic.
+	•	Led error monitoring and incident resolution initiatives, implementing structured logging and automated alerting for proactive system maintenance.
+	•	Worked cross-functionally with product managers, QA, and security teams to enforce secure coding practices, RBAC, and API token lifecycle management.
+	•	Developed reusable frontend components with React Hooks and TypeScript, improving maintainability and visual consistency across client portals.
+	•	Participated in Agile sprint ceremonies, code reviews, and version control practices using GitHub and Jira to deliver scalable, high-quality software.
+	•	Provided technical support and documentation for application users, ensuring quick resolution of reported issues and continuous improvement of internal tools.
+	•	Contributed to process optimization by documenting technical workflows, deployment procedures, and performance benchmarks used by internal and external teams.
+Tata Consultancy Services, India								     Apr 2021 - Jul 2022
+Full Stack Developer
+	•	Designed and developed enterprise-grade web applications using Spring Boot, Angular, and Oracle SQL, improving system scalability and usability across client platforms.
+	•	Enhanced front-end development using HTML5, CSS3, JavaScript, jQuery, Bootstrap, and AngularJS to build responsive UIs, collaborating with designers to translate UI/UX concepts into functional web pages.
+	•	Built REST APIs for user management, transaction logging, and reporting workflows, reducing manual data processing time by 60%.
+	•	Enhanced front-end performance through lazy loading, caching, and optimized change detection, improving page load speeds by 30%.
+	•	Implemented unit and integration testing using JUnit and Jasmine, achieving over 90% code coverage across modules.
+	•	Managed production support incidents by monitoring application logs, performing root-cause analysis, and deploying hotfixes to minimize downtime.
+	•	Collaborated with cross-functional teams to define technical requirements, review designs, and align solutions with business goals.
+	•	Worked within an Agile environment, contributing to sprint planning, retrospectives, and daily stand-ups to ensure timely delivery of project milestones.
+	•	Integrated data encryption, input validation, and secure authentication modules to comply with client security and compliance requirements.
+Swecha Organization, India 						                                         May 2019 - Oct 2020
+Full Stack Developer
+	•	Developed and maintained responsive web applications using PHP, Node.js, and JavaScript, supporting dynamic content management, RESTful API integrations, and user authentication features.
+	•	Designed, developed, and deployed open-source education and community-focused web applications using Python (Flask), JavaScript, and PostgreSQL.
+	•	Created RESTful APIs for managing user data, course content, and submissions, improving data retrieval performance by 35%.
+	•	Implemented responsive UI components and ensured cross-browser compatibility using HTML5, CSS3, Bootstrap, and JavaScript.
+	•	Automated system tasks and data backup processes using Python and Cron, improving uptime and operational efficiency.
+	•	Followed WCAG 2.1 AA accessibility standards and secure coding practices to enhance usability and data protection.
+	•	Documented system architecture, APIs, and configuration details for long-term maintenance and scalability.
+EDUCATION
+	•	Master of Science in Computer Science 						   Aug 2022 - May 2024
+University of Texas at Arlington, Texas, USA      							          GPA: 3.8
+	•	Bachelor of Technology in Computer Science					                    Jul 2017 - Jul 2021
+MallaReddy College of Engineering and Technology, Hyderabad, India				           GPA:3.8
+ACHIEVEMENTS AND CERTIFICATIONS
+	•	NRTW CSE Lonestar School Scholarship.
+	•	AWS Certified Solutions Architect - Associate (2024).
+	•	Star of the Month - Tata Consultancy Services (Mar 2022).
+
+Akhila Thota Full Stack Developer 📞 682-305-0168 | akhila.t1214@gmail.com
+October 24, 2025
+Hiring Committee University of Michigan – Robotics Department Ann Arbor, MI
+Dear Hiring Committee,
+I am writing to express my interest in the Applications Programmer Associate position within the University of Michigan Robotics Department. With over four years of experience developing, maintaining, and supporting enterprise-grade web and data applications using Python, JavaScript, and Java, I am eager to contribute my technical expertise and collaborative mindset to Michigan Engineering’s mission of advancing innovation and research through technology.
+In my current role at Ansira Partners, I developed and supported scalable marketing and analytics platforms using Flask, React, and PostgreSQL, optimizing application performance and data workflows across distributed systems. I built and maintained REST APIs, automated ETL pipelines, and implemented CI/CD pipelines with Jenkins and Docker, reducing production deployment time by 50%. I also worked closely with QA and DevOps teams to troubleshoot, document, and resolve issues, ensuring system stability and data integrity for mission-critical services.
+Previously at Tata Consultancy Services, I designed and implemented full-stack web solutions with Spring Boot and Angular, collaborating with cross-functional teams to translate complex business requirements into efficient, user-focused applications. These experiences strengthened my foundation in secure coding, testing, and application support—skills that align closely with the Robotics Department’s emphasis on reliability, compliance, and continuous improvement.
+What draws me most to this role is the opportunity to work in an academic environment that values both innovation and community impact. The University of Michigan’s vision of building a “people-first future” deeply resonates with me. I am passionate about creating tools and systems that empower researchers, faculty, and students to advance robotics education and discovery. My background in full-stack development, data integration, and system troubleshooting equips me to contribute effectively to your team’s ongoing projects and collaborative goals.
+I would be honored to bring my technical skills, problem-solving mindset, and commitment to excellence to the Robotics Department. Thank you for considering my application. I look forward to the possibility of discussing how I can support Michigan Engineering’s continued success.
+Sincerely, Akhila Thota
+

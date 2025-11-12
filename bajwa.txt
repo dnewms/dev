@@ -1,0 +1,71 @@
+Vikram Bajwa Ypsilanti, MI 48197 (805) 428-2888 | vik.bajwa@gmail.com
+ Department of Robotics University of Michigan College of Engineering Ann Arbor, MI 48109
+Subject: Application Programmer Role
+Dear Hiring Team,
+I am writing to express my enthusiastic interest in the Programmer position within the Robotics department at the University of Michigan. With a strong foundation in web application development and a passion for creating custom, efficient tools, I am excited by the opportunity to support the world-class educators and researchers at Michigan Engineering.
+My proficiency in JavaScript, HTML/CSS, and experience building applications that interact with APIs and SQL databases align directly with the needs of this role. In my previous software engineering positions, I was responsible for the entire development lifecycle, from gathering requirements from business analysts to coding, testing, and deploying robust applications. This has given me strong communication skills and the ability to translate the needs of non-technical stakeholders into practical, user-friendly software solutions.
+I am a self-directed and proactive developer, as demonstrated by my personal projects, such as a web application that fetches and displays data from the official NASA Mars Rover API. This project highlights my ability to independently manage a project and build a useful tool from the ground up. I am confident I can apply this same initiative to manage multiple priorities and deliver high-quality support to the Robotics department.
+The prospect of working in a higher education environment, particularly in a pioneering field like robotics, is incredibly appealing. I am eager to bring my technical skills and collaborative spirit to your team and contribute to the innovative community at the University of Michigan.
+Thank you for your time and consideration. I look forward to discussing my qualifications and how I can be an asset to your department.
+Sincerely, Vikram Bajwa
+
+VIKRAM BAJWA
+Ypsilanti, MI 48197 | 1-805-428-2888 | vik.bajwa@gmail.com
+
+---
+
+Professional Summary
+
+Experienced Software Engineer in dynamic development environments. Skilled in C#, ASP.NET, and SQL Server, with a focus on creating effective and maintainable applications. A collaborative team player dedicated to improving software usability and performance through steady, thoughtful contributions.
+
+---
+
+Technical Skills
+
+	•	Languages: C#, JavaScript, HTML, XML, SQL, CSS
+	•	Frameworks & Libraries: ASP.NET, .NET Framework, ReactJS
+	•	Databases: Microsoft SQL Server
+	•	Development Tools: VSCode, Visual Studio, Git, Team Foundation Server (TFS)
+	•	Methodologies & Concepts: Agile, Object-Oriented Programming (OOP), Web-Services, APIs, JSON
+---
+
+Professional Experience
+
+Software Engineer | Bank of America | Simi Valley, CA 07/2005 – 12/2019
+	•	Contributed to the design and development of robust .NET solutions to meet client requirements for functionality, scalability, and performance.
+	•	Participated in large-scale software deployments, including testing new features and correcting code before release.
+	•	Collaborated with business analysts, developers, and QA professionals to help define requirement specifications and minimize project delays.
+	•	Modified existing software to correct coding errors, upgrade interfaces, and improve overall performance.
+
+Software Engineer | Nordic Technologies | Brighton, MI 01/2002 – 07/2004
+	•	Helped improve system performance by making proactive adjustments and resolving bugs.
+	•	Participated in the full software development lifecycle, from needs analysis and requirements gathering to deployment and support.
+	•	Implemented procedures for system monitoring, recovery, backup, and optimization.
+
+
+—
+
+Personal Projects
+	•	Karma - Self-Help Mobile App (Android)
+	•	Designed and built a native Android application to help users overcome personal fears and gain confidence  through structured, positive actions and community service.
+	•	NASA Mars Rover Image Explorer (Web Application)
+	•	https://vikram1217.github.io/mars-rover-apod-explorer/
+	•	Developed a web application that allows users to browse images from NASA's Mars rovers by fetching data from the official NASA API.
+	•	Retro Space Shooter (Game)
+	•	https://retro-ranger-game.web.app/
+	•	Created a classic side-scrolling space shooter game, implementing game logic, collision detection, and user controls.
+	•	FinTracker.AI
+	•	Developed a financial tracking mobile app that allows users to take photos of receipts
+	•	Processed using Google’s Gemini LLM API to return a structured JSON file containing receipt data.
+	•	Displays the extracted information
+	•	Provides detailed views of receipts
+	•	Generates visual purchase reports with pie charts
+	•	Enables users to create and manage budgets across multiple categories.
+	•	Users can also search for receipts by date, category, or amount.
+
+
+Education
+
+**Bachelor of Science in Computer Science**
+Eastern Michigan University, Ypsilanti, MI
+ 

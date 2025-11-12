@@ -1,0 +1,43 @@
+Mohammadbaquer
+313-464-9589 | mbaquer@umich.edu
+10-29-2025
+
+To the Michigan Engineering Robotics Department Hiring Committee:
+I am writing to apply for the software engineering position within the Robotics department. As a Software Engineering student at the University of Michigan – Dearborn who is deeply passionate about building collaborative solutions to societal problems, the opportunity to contribute to the world-class work of Michigan Engineering is a perfect alignment of my skills and aspirations. I was particularly drawn to your mission of building a "people-first future" and promoting an "inclusive and innovative community of service," values I strongly share.
+
+My project experience has equipped me with a comprehensive skill set that directly maps to the responsibilities outlined for this role. The chance to support the pioneering research of the Robotics department by providing stable, efficient, and well-supported software applications is incredibly motivating. I am confident that my practical experience in full-stack development, my problem-solving mindset, and my dedication to the public-good mission of Michigan Engineering would allow me to quickly become a valuable, contributing member of your team.
+
+Thank you for your time and consideration. I have attached my resume for your review and look forward to the possibility of discussing this exciting opportunity with you.
+
+Sincerely,
+Mohammadbaquer
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mohammadbaquer Alakaeshy
+(313) 464-9589 | mbaquer@umich.edu
+EDUCATION
+University of Michigan – Dearborn — B.S. Software Engineering Graduation: September 2025 | GPA: 3.55 | Graduated with Distinction
+
+Google Certificate — IT Automation with Python Professional Certificate
+PROJECT EXPERIENCE
+MathLearner – Interactive Math Platform | React, Tailwind CSS, Redux, REST, WebSocket • Architected and developed a responsive, accessible platform serving 1,200+ concurrent users, cutting load time by 35% and improving Lighthouse mobile usability to 98%. • Integrated RESTful APIs and WebSocket services with global state management to enable real-time live quiz tracking, progress syncing, and a teacher dashboard. • Implemented JWT authentication and optimistic UI, reducing perceived latency to <150 ms and boosting lesson completion rates by 22%.
+Impact Fundraising Platform | Flutter, Firebase, Riverpod • Built a multi-form fundraising system with 8+ form types, enabling organizations to collect and manage contributions more efficiently. • Integrated Firebase Firestore and payment tracking to provide real-time data synchronization and authentication for thousands of transactions. • Designed responsive Flutter UI with animations, CSV export, advanced search/filtering, and contact management to streamline operations for 10+ active non-profits.
+Donation Tracker Desktop App | Python, Tkinter, SQLite, RES • Developed a desktop application to manage donation box requests, reducing manual paperwork by 80% and processing time by 60% through automation. • Designed and deployed a relational database for request tracking and multi-user synchronization to ensure data integrity. • Built adaptive GUI forms to handle multiple workflows, improving volunteer response efficiency.
+EXPERIENCE
+Al-Ayn Social Care Foundation (Non-Profit) — Representative & Delivery Feb 2022 – Present • Used Salesforce CRM to manage 2,000+ supporter records and generate donation receipts with 100% data entry accuracy. • Coordinated between supporters and staff through calls, texts, and visits to ensure timely communication and issue resolution. • Leveraged Chatter to track supporter interactions and streamline follow-up workflows.
+RELEVANT COURSEWORK
+Software Engineering I & II • Software Architecture & Design Patterns • Database Systems • Mobile App Development • Web Technology • Data Structures & Algorithms • Operating Systems • Networks & Distributed Systems • Computer Organization & Assembly Language
+TECHNICAL SKILLS
+Languages: JavaScript (React), Dart (Flutter), Python, Java, C++ Frameworks/Tools: Redux, Tailwind CSS, Firebase, Tkinter, WebSocket, REST APIs, Riverpod, SQLite Other: Git/GitHub, Salesforce CRM, UI/UX Design, Agile Development
+

@@ -1,0 +1,53 @@
+Dear Members of the Search Committee,
+I am writing to express my enthusiasm for the Applications Programmer  position in the College of Engineering Robotics Department. Programming has always been both my profession and passion, and this role perfectly aligns with my academic background in computer science and my hands-on experience in software development and data systems.
+Currently, I serve as a Senior Research Analyst and Web Developer at Eastern Michigan University, where I independently designed and implemented multiple full-stack web applications to streamline institutional workflows. My daily work involves coding, debugging, database management, and application support using technologies such as PHP, JavaScript, Python, Oracle SQL, and React—skills directly matching the requirements outlined in your posting. I also work closely with non-technical stakeholders to translate their needs into efficient, user-friendly tools, a responsibility that has strengthened my communication and problem-solving abilities.
+In parallel with my professional role, I have continued active research in automation and AI-driven application development, publishing papers on large language models, software testing, and simulation automation. These experiences have deepened my appreciation for developing secure, reliable, and intelligent systems—values that align closely with Michigan Engineering’s mission to lead through innovation and collaboration.
+I am particularly excited about contributing to the Robotics Department, where technology meets creativity and societal impact. I look forward to bringing my blend of programming expertise, research experience, and commitment to quality to support your academic and research community.
+Thank you for considering my application. I would welcome the opportunity to discuss how my background and enthusiasm can contribute to your team’s goals.
+Sincerely, Yan Zhao
+
+
+
+
+
+
+YAN ZHAO 📞 540-451-5587 | ✉️ yanzhao@vt.edu
+Google Scholar: https://scholar.google.com/citations?user=aSwTgQEAAAAJ&hl=en
+
+Professional Experience
+Research Assistant (Volunteer ) Virginia Tech, Blacksburg, VA | Aug 2019 – Present
+	•	Ongoing Research Project: Automatic Fuzzing Testing with Large Language Models. (Docker, Python, LLM, GIT,GenAI)
+	•	Published Paper: Towards LLM-Based Automatic Playtest. (Python, LLM, GenAI)
+	•	Published Paper: How Do Developers Reuse StackOverflow Answers in Their GitHub Projects?
+	•	Published Paper: A lightweight approach of human-like playtest for android apps(Python, Android studio, Gradle, GIT，Reinforcement Learning, Deep Learning)
+Senior Research Analyst and Web Developer EMU IRIM Office, Ann Arbor, MI | 5 years|  May 2020 - Present
+Experienced Data and Analytics Leader with extensive experience in website design and full-stack development, data engineering, and academic decision support systems. Skilled at translating institutional needs into scalable web-based tools and analytical solutions.
+	•	Full-stack web development (LAMP stack): Independently designed and developed the department’s official website and several internal systems, including a Data Request Management System, an Academic Decision Support Reporting System,  a Bulk Email Survey Distribution System.
+	•	Technology stack: PHP, JavaScript, Oracle SQL, HTML, CSS, JSON, React, and Linux environments.
+	•	Data analysis and machine learning: Built analytical models using Python and PL/SQL to generate data-driven insights for strategic decision-making.
+	•	ETL development: Designed and maintained automated ETL pipelines for institutional research datasets.
+	•	Published Paper: A Practice in Enrollment Prediction with Markov Chain Modeling
+	•	Published Paper: AI-Driven Strategies for Reducing Student Withdrawal--A Study of EMU Student Stopout
+Software Development Engineer Baidu, Inc., Beijing, China | 4 years and 4 months
+	•	Conducted large-scale web mining and web scraping using Hadoop and MapReduce, contributing to innovative search engine solutions.
+	•	Web-Page Thumbnail Extraction: Designed a C++-based decision tree model for efficient image feature extraction. #Hadoop
+	•	Garbage Page Detection: Used Hadoop and MapReduce for large-scale data mining and anomaly detection. 
+	•	Soft404 Page Detection: Leveraged SVM for text classification, improving search engine accuracy. #Hadoop
+
+
+Skills and Tools
+	•	Languages & Frameworks: Python, Perl，PHP, C++, Django, JavaScript, HTML5, CSS3, Shell, Linux, React, Foundation.
+	•	Cloud & Virtualization: Hadoop, Linux, Docker
+	•	Database & Big Data: MySQL, Oracle SQL, Hadoop
+	•	Machine Learning &Data Analysis:  linear regression, logistic regression, decision trees, random forests, support vector machines (SVMs), Naive Bayes, neural networks, clustering, dimensionality reduction, Deep Learning, LLM，NLP, Scikit-learn, PyTorch, and TensorFlow
+	•	Tools: Git, SVN, automated testing frameworks, distributed platforms, AWS, Jenkins, CI/CD
+
+Education
+M.S. in Computer Science Virginia Tech, Blacksburg, VA | 2019 - 2022 | GPA: 3.95/4.00
+
+Awards & Achievements
+	•	Recognized as "Outstanding Performance" at EMU (2023).
+	•	Holder of 3 patents, including "On-line input method evaluating system" (2013).
+	•	Published peer-reviewed conference papers in AI-driven strategies and software engineering.
+	•	Recipient of Baidu Innovation Award and other academic honors.
+

@@ -1,0 +1,78 @@
+From:  Julie Keros
+Re:      Applications Programmer Assoc
+To:     CoE Robotics	
+Hello, my name is Julie Keros. I recently came across your Application Programmer position on the U of M website.   I have over 35 years of Application Programming and Web Programming experience which includes expertise in JavaScript, Python, Java, Linux/Unix scripting, CSS, HTML, ASP.net, C#, MVC Frameworks, JSON, XML, APIs, Oracle, PostgreSQL, MySQL, Node.js, Git, SQL, REST, React.js TypeScript files, and jQuery.  I am also Oracle DBA certified and I am familiar with Docker.   Note, I am currently on RIF status.  
+With 35 years of experience in front-end and back-end development, I excel at coding, database interactions, and application support. I am also skilled in security protocols like SAML and have extensive experience collaborating with diverse teams for requirements gathering.  My experience aligns closely with your requirements.
+I am currently working at the University of Michigan Child Health Evaluation and Research Center (M-CHEAR), where I have been working for over 9 years.  I used Java J2EE, Spring Boot, REST, Hibernate, Oracle SQL, JavaScript, HTML, and CSS to add critical features to the METLIMS application, including the PubChem scraping mentioned above.   Also, for the past year, I have developed a Bio-Medical Research Store application in Shopify, a cloud-based E-Commerce platform, using JavaScript, APIs, REST, and Python.     For the past several months, I have been working with Replit, an AI package, Node.js, React, TypeScript, and PostgreSQL.  My most recent work has included developing Python programs that handle Shopify APIs, and that use SQL Alchemy to perform complex imports into a Postgres database. Lately I have been taking Node.js code and designing a migration process to modify the code, implement SAML as well as SSO access, and deploy it to development and production servers.   Just recently, I have put together a “one-step” migration system that involves just one command in Replit that will deploy the local Replit code to our external development and production servers.  
+I would very much like to be an Applications Programmer on your team.   I know many different platforms and many different technologies.  I have the web application development experience that you need and more.  I would very much like to talk further and share code.  I am also very happy to produce references as well as a longer, more detailed version of my resume.   Please feel free to use Maureen Kachman as a reference, her email is mkachman@med.umich.edu.  She is in the midst of writing a letter of recommendation for me.   I look forward to hearing from you.   Please feel free to call me at any time at 313 689 3267. 
+
+Sincerely, 
+Julie Keros
+
+
+SUMMARY
+ With over 35 years of experience in database management and over 12 years in web development, I possess a robust blend of technical skills. I am proficient in web development languages including Java, ASP.NET, JavaScript, HTML, CSS, and emerging technologies like Node.js. My database expertise spans Oracle, SQL Server, and PostgreSQL. I am also a certified Oracle DBA 11g, which equips me to efficiently handle both front-end and back-end challenges in software development.
+
+CORE COMPETENCIES
+
+	•	Extensive Experience: Proven track record within web and database environments.
+	•	Adaptability: Quick-learning capability for new technologies; self-taught skills in ASP.NET, jQuery, and Node.js.
+	•	Communication Excellence: Skilled in technical documentation, training, and public speaking engagements.
+
+TECHNICAL SKILLS
+
+	•	Languages & Technologies: Java, JavaScript, HTML, CSS, Visual Basic, C#, PHP, Ruby on Rails, jQuery
+	•	Frameworks & Libraries: Node.js, Ajax, Python, Unix Shell Script, Replit
+	•	Database Systems: Oracle, MySQL, SQL Server, PostgreSQL
+	•	Tools & Environments: Visual Studio, Jenkins, Kubernetes
+	•	Certifications: Oracle DBA 11g OCP, Java Programmer
+	•	Database Modeling: SQL Developer
+
+PROFESSIONAL EXPERIENCE
+University of Michigan Medical School, Metabolomics Core/MiCHEAR Java Developer/ Database Engineer | Apr 2016 – Present
+	•	Led the development of core functionality for Metlims using Java technologies.
+	•	Optimized worklist functionalities to improve user interaction and system efficiency.
+	•	Instituted system-wide enhancements, improving the Metlims Tracking System for broader scientific collaboration.
+	•	Developed the Metlims Tracking system from scratch using Java, JavaScript and CSS to create reports and Gantt charts. This has become the standard in measuring progress.
+	•	Developed a Biomedical Research store using Shopify an ecommerce system along with JavaScript, Python, API and REST.
+	•	Currently developing an enhanced Biomedical Research store using Replit AI along with Node.js and Postgres.   Performed the migration from Replit to the Red Hat development server. 
+
+University of Michigan Health Management Research Center Database Engineer/ Java Programmer | Nov 2013 – Apr 2016
+	•	Automated and streamlined data loading from Excel to Oracle databases, significantly reducing manual processing time, and saving money. 
+	•	Developed complex Oracle stored procedures for data analysis.
+
+Wayne County Treasury ASP/ASP.NET Programmer/ Oracle Developer | Aug 2009 – Nov 2013
+	•	Transformed the Property Tax Application (PTA) from ASP to ASP.NET, adding efficiency-improving navigation features.
+	•	Developed Oracle stored procedures, functions, and triggers to analyze tax data for the Property Tax Application (PTA) and perform complex financial calculations.
+
+4Word Systems,  Polyergic Informatics LLC, Comspec
+Java Programmer, Oracle Developer, and ASP.NET Developer | Nov 2008 – Aug 2009
+
+Critech
+Lead Oracle Developer, Oracle DBA and SQL Server DBA | Jul 2006 – Aug 2008
+
+Interpro, Sterling Commerce, JDM
+Lead Oracle Developer, Lead Oracle DBA, Java Developer | Aug 2003 – Jul 2006
+	•	Gave presentations on Oracle query tuning and Oracle Materialized Views (snapshots)
+
+Compuware at Ford Motor Company
+Lead Oracle Developer, ASP.net developer, Oracle Expert | April 1994 – Jul 2003
+	•	Gave a lecture for the Michigan Oracle Users Group in May 2001, and June 17 2003 on Oracle query tuning
+	•	As the project manager for the Web Comboard team, I supervised ASP code changes
+	•	Optimized several Oracle applications by tuning SQL queries and designed several databases resulting in a performance increase of 100%. 
+
+
+
+
+EDUCATION
+	•	Master of Business Administration (M.B.A.) Eastern Michigan University, 1996 Major: Information Systems
+	•	Bachelor of Science (B.S.) University of Michigan Major: Computer Science Focus Areas: Database Modeling, Pascal, Assembly Language
+	•	Bachelor of Arts (B.A.) University of Michigan, 1988 Major: French Literature Skills: Conversational French
+
+TEACHING EXPERIENCE
+	•	Oakland Community College — Taught Information Systems Design
+	•	Compuware Corporation — Oracle SQL, database design, UNIX shell scripting
+	•	Ford Motor Company — SQL query training and database optimization
+
+REFERENCES Available upon request
+

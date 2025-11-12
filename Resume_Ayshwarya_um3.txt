@@ -1,0 +1,98 @@
+Ayshwarya Jagadeesan
+PHONE: 248-938-9923	44887 Revere Dr Novi Mi-48377	Email:jayshwarya@gmail.com or ayshjag88@gmail.com
+
+Ayshwarya Jagadeesan  Phone: (248) 938-9923  Email: jayshwarya@gmail.com | ayshjag88@gmail.com  GitHub Portfolio: ayshwaryajagadeesan.github.io
+
+Hiring Committee  College of Engineering – Robotics Department  University of Michigan
+Dear Hiring Committee,
+I am excited to apply for the Application Development position in the Robotics Department at Michigan Engineering. With a postgraduate degree in Artificial Intelligence and Machine Learning from The University of Texas at Austin, over seven years of professional experience in software engineering, embedded systems, cloud deployments, and AI pipelines, and a proven track record of translating complex requirements into robust technical solutions, I bring the technical depth, leadership experience, and higher-education context that align perfectly with this role.
+In my current role as an Embedded Systems Engineer at Indus Electronics, I lead development of multi-platform applications integrating hardware and software, while managing a team of 8–10 engineers. I have designed and deployed full-stack web applications, ERP systems, mobile apps (Android/iOS), and real-time data collection platforms. I have also developed precision feedback AI pipelines deployed on Google Cloud Kubernetes with OAuth 2.0 bearer-token authentication, integrating data collection, processing, and API services for academic research workflows. My work consistently emphasizes scalability, reliability, data integrity, and security, while collaborating closely with non-technical stakeholders, including faculty, researchers, and operational staff.
+I am particularly drawn to this position because of the opportunity to blend hands-on application development, troubleshooting, and support with mission-driven service to the Robotics Department. The role’s emphasis on coding, database interaction, QA, security compliance, and stakeholder collaboration aligns directly with my past responsibilities in higher education and enterprise environments.
+Technical Competencies (Directly Relevant to This Role):
+	•	Programming & Web Development: Python (Flask, Django), JavaScript (ReactJS, AngularJS, VueJS), PHP, C#, Java, VB.NET, ASP.NET MVC, HTML, CSS, jQuery 
+	•	Data Management & Databases: SQL, MySQL, MariaDB, Crystal Reports, REST APIs, JSON/XML parsing, database design, query optimization, data normalization, schema design, foreign keys, joins, indexing 
+	•	Cloud & Infrastructure: Google Cloud, AWS, Heroku, Kubernetes, Docker, virtualization, high-performance computing, CI/CD pipelines (Jenkins), Linux/Unix administration, Bash scripting 
+	•	AI & Machine Learning: RDFLib graph data structures, precision feedback API, ML model deployment, NLP, recommender systems, computer vision pipelines, AI-assisted web tools 
+	•	Embedded & Hardware Systems: STM32 microcontrollers, MODBUS, RS485 protocols, IoT integration, real-time data acquisition 
+	•	A/V & System Integration: Crestron systems, presentation/auditorium equipment, audio/video troubleshooting, digital signage, live event streaming setups 
+	•	Project Management & Collaboration: Agile/Scrum, JIRA, Crucible, waterfall lifecycle, requirement gathering, cross-functional collaboration, mentoring junior engineers, stakeholder communication 
+	•	Security & Compliance: OAuth 2.0 authentication, identity and access management, HIPAA and institutional data security awareness, SSL/TLS configuration, cybersecurity best practices 
+I have consistently leveraged these skills to deliver solutions that reduce operational friction, enhance system reliability, and improve user experiences in higher-education research and enterprise environments. I thrive in collaborative, fast-paced settings, enjoy mentoring junior staff, and am motivated by the opportunity to contribute directly to the Robotics Department’s mission of advancing innovation in engineering and technology.
+I would welcome the opportunity to discuss how my extensive technical expertise, leadership experience, and higher-education software deployment background can contribute to the Robotics Department at Michigan Engineering. Thank you for your consideration.
+Sincerely,  Ayshwarya Jagadeesan
+
+
+
+
+
+
+Ayshwarya Jagadeesan
+Phone: 248-938-9923	 Email:  jayshwarya@gmail.com or ayshjag88@gmail.com
+
+
+	•	Over 14+ years IT experience, with 2 years of experience in project and team management.
+	•	Worked and studied in Artificial Intelligence and Machine Learning projects.
+	•	Worked in PHP, PYTHON, python packages like PANDAS, BEAUTIFUL SOUP, BOTO3, rdflib etc. and XML,IIS, JSON, HTML, CSS, SQL, MYSQL, Angular JS, JQUERY,C#, asp.net, mvc, crystal reports , dev express, telerik, vb.net , React JS and REST services.
+	•	Developed android mobile apps and published the apps in the google play.
+	•	Connected the websites and windows applications with embedded devices using MODBUS, RS485
+communication protocol.
+	•	Created real time monitoring applications to collect data from embedded devices for every second and display real time data to the user.
+	•	Experienced in Product development, strong attention to detail, strong technical focus, ability to multi- task in a fast-paced dynamic business environment with multiple objectives under strict deadlines
+	•	Expertise in GIT versioning system, Scrum environment, agile approaches, including Software Development Life Cycle and Test-Driven Development.
+	•	Programming experience in C, C++, and Ruby On Rails with strong competencies in data structures, algorithms and software design
+	•	Strong organizational, communication and interpersonal skills.
+Work Experience
+Application Programmer Analyst Inter/Senior -Michigan Medicine (UMTRI, Radiology,DLHS&Pharmacy Administration); Jan 2019 - Present
+	Project4-Pharmacy Administration
+	I am currently working as Pharmacy technician..
+
+Project 3:
+	•	Software Design, programming, debugging and documentation in the context of iterative, collaborative software development, applying Agile methods to help manage complexity, including the following:
+	•	Implementing and integrating Application Program Interfaces with clinical performance and quality reporting platforms to bring about a precision feedback system as a scalable service.
+	•	Developing techniques and scripts for efficient program logic and data manipulation and providing multiple formats to interact with data (eg. HTML, XML, FHIR, JSON).
+	•	Configure or modify complex information systems, including analysis of business and user needs, documenting requirements, and liaising with technologists to revise existing systems and workflow steps as necessary.
+Project 2:
+	•	Provide performance improvement and increased functionality of the existing research database application at Neuroimaging and mobility lab at Michigan Medicine
+	•	Design, develop, and implement new database applications to accommodate research data.
+	•	Ensure that database applications are encrypted and secured and compliant with HIPAA regulations.
+	•	Create/design and run database reports based on end-user needs and assists in statistical analysis of collected data.
+	•	Monitor integrity of data collection and perform (automated) data quality assurance checks.
+Project 1:
+	•	Developed software for projects like Michigan Traffic Crash Facts (MTCF) and Unified Tool for Mapping Opportunity for Safety Technology (UTMOST)
+	•	Worked on applications using python, used various packages like pandas, beautiful soup, boto3, tabula, Camelot, pycharm, MYSQL, SQL, etc.
+	•	Worked on javascript framework like ext.js, Git, json, xml, aws web services etc
+
+Tech Lead and R&D manager - Indus Electronic India Pvt Limited, India; Jan 2016-Apr 2018
+	•	Developed software for online monitoring system for production monitoring, energy monitoring and weighing automation system.
+	•	Worked on applications using C#, ASPX, VB.Net, Android mobile app development and crystal reports.
+	•	Used MYSQL and SQL databases.
+	•	Worked on MODBUS and RS485 protocol and created software that connects various embedded devices.
+	•	Involved in customer handling, managing a team, documentation and solving client-side problems.
+
+Software Development Engineer - Cerner Corporation; Mar 2015-jun 2015
+	•	Designed, developed and tested software projects for Velocity Profile of Velocity Engineer.
+	•	Added Mentor database to the Velocity Profile.
+	•	Added functionality to add mentors to the database, delete mentors in the mentor table, update mentors to the mentor table filter mentor from the mentor table and import mentor to the mentor table.
+
+Mobile App/Software developer intern - IBitzSoft Inc and Iphotonix Inc; Jan 2014 - Dec 2014 
+	•	Designed, developed and tested mobile app called flyght club. The app is in google play.
+	•	It is a social networking app for the passengers travelling in the flight.
+	•	Designed and developed authentication using Facebook and LinkedIn
+	•	Designed and developed the database table, choosing the platform for development, building the software and then embedding the software into the native device which is the ONT with Residential Gateway.
+
+Software Development Engineer, R&D - Indus Electronics Industry, India; Jan 2011 – June 2012
+	•	Designed, developed and tested software projects for Three phase power meter, Power Quality Analyzer and Poultry Weighing Scale using MSP 430F5418, 5435 series.
+	•	Managed projects for Truck and electronic weighing scales, AC Three phase Voltmeter using Renasas- R8/c 25/26 series.
+
+Assoc Software Developer - Robert Bosch Engineering and Business Solution; Jun 2010 – Jan 2011
+	•	Designed and developed and tested braking systems, Side stand sensors, wiper controllers, window controllers, braking ramp using TC1775, MSP5435 and LABCARS.
+	•		   Designed, developed Managed processor generation MX7, MX16, and MX17 for customers like FIAT, PORSCHE, Benz and other Auto makers.
+Education
+
+	•	Post Graduate Program, Artificial Intelligence and Machine Learning, Univ Of Texas, Austin Jun 2021
+	•	Master of Science, Computer Science, University of Texas Dallas, TX Dec   2014
+	•	Bachelor of Engineering, Electronics and Communication Engineering, PSG Tech, India May 2010
+Certifications/Achievements
+	•	IEEE SPAC Chairman and IEEE Chief Editor, PSG Tech Student Chapter, Coimbatore, India, Jun 2009 – May 2010.
+	•	Taught for K 12 outreach programs in University of Texas Dallas 
+Reference	Available on request.

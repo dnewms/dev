@@ -1,0 +1,160 @@
+
+COVER LETTER
+
+Manasa Addanki  Ann Arbor, MI  manasa060t@gmail.com | (616) 258-6460  October 24, 2025
+Hiring Committee  University of Michigan – College of Engineering, Robotics Department  Ann Arbor, MI
+Subject: Application for Applications Programmer Associate (Position ID 270067)
+Dear Hiring Committee,
+I am writing to express my interest in the Applications Programmer Associate position with the Robotics Department at the University of Michigan. With over seven years of full-stack development experience in higher-education and enterprise environments, I specialize in creating secure, accessible, and data-driven web applications that enhance usability and operational efficiency.
+In my current role at Ericsson, I design and support applications built with React.js, Node.js, and MySQL, focusing on clean code, automated testing, and performance monitoring. I routinely handle application debugging, RESTful API development, and database query optimization, ensuring reliability under high-traffic conditions. Previously, at Tata Consultancy Services, I modernized APIs, implemented WCAG-compliant interfaces, and optimized SQL Server performance for internal university-style systems—experience that directly parallels the Robotics team’s need for dependable, user-focused tools.
+I am proficient in JavaScript, TypeScript, and Python scripting, and comfortable translating user requirements into maintainable code. My background includes quality assurance testing (Jest, Cypress), secure coding practices (OAuth 2.0, JWT), and collaborative Agile workflows—skills that align with the position’s emphasis on coding, troubleshooting, and compliance. I take pride in partnering with non-technical stakeholders to deliver solutions that are both technically sound and intuitive to use.
+I am excited by the University of Michigan’s mission to advance robotics research and education through innovation and collaboration. I would welcome the opportunity to contribute to your team’s application development initiatives and support the department’s long-term goals.
+Thank you for considering my application. I look forward to the possibility of discussing how my experience and technical skills can serve the College of Engineering’s Robotics Department.
+Warm regards, Manasa Addanki
+
+MANASA ADDANKI
+Full-Stack Web Developer
+manasa060t@gmail.com| 616-258-6460
+
+PROFESSIONAL SUMMARY
+Full-Stack Web Developer with 7+ years of experience delivering scalable, accessible, and user-focused web applications. Proven expertise in building responsive, WCAG 2.1/Title II–compliant interfaces using React.js, Angular, TypeScript, JavaScript, HTML5, and CSS, optimized for cross-device performance. Skilled in customizing and maintaining CMS platforms WordPress (Pantheon), ensuring consistent theming, accessibility, and seamless user experiences.
+Experienced in developing and integrating RESTful and GraphQL APIs with Node.js, Express.js, and PHP/Laravel, applying secure authentication, RBAC, and microservices architectures. Adept at usability testing, analytics reviews, and accessibility remediation to guide interface improvements. Hands-on with AWS and Azure cloud solutions, database optimization (PostgreSQL, MySQL, MongoDB, Redis), and DevOps practices for sustainable deployments. Recognized as a collaborative leader and mentor, with a track record of guiding developers, coordinating with vendors, and partnering with academic and cross-functional teams to deliver reliable, student- and user-centered web platforms.
+EDUCATION DETAILS: 
+Bachelor's, Electronics and Communication Engineering (2016)
+
+TECHNICAL SKILLS	
+Frontend:	React.js (v16.x – v19.x), Next.js, Angular (v2+), JavaScript (ES6+), TypeScript, Redux, Redux Toolkit, React Query, Zustand, NgRx, Context API, HTML5, CSS3, SASS/SCSS Tailwind CSS, Bootstrap, Material UI (MUI), jQuery, Styled Components
+Backend:	Node.js, Express.js, NestJS, PHP (v5.x – v8.x), Laravel (v6.x – v11.x), WordPress ,CodeIgniter (v3.x.x) Mongoose ORM, Python (Basics), Power BI, Java	
+	                                           Databases:    	MySQL, MongoDB, PostgreSQL, Redis, Memcached,Oracle	
+	                                           Cloud Services:	AWS (EC2, IAM, S3, Lambda, CloudWatch,SNS, EC2, CloudFront), Azure, GCP	
+	                                           DevOps Tools:	Docker, Kubernetes, Jenkins, Github Actions, GitLab CI/CD, Git	
+Testing:			React Testing Library (RTL), Jest, Jasmine, Cypress		
+APIs:			RESTful APIs, Swagger UI, GraphQL, OAuth 2.0,WebSockets	 UI/UX Tools:		Adobe XD, Sketch, Figma, Storybook	
+	                                           Build Tools:	Webpack, Babel, Vite, NPM, Yarn, PNPM	
+Security:	OAuth 2.0, JWT Authentication, Data Encryption, Helmet.js, OWASP, RBAC,CORS, CSRF Protection, XSS	
+Debugging Tools:	GitHub Actions, GitLab CI, Azure DevOps, Bitbucket Pipelines, LogRocket, Splunk, Sentry, Datadog, Grafana, BrowserStack	
+Agile Tools:		JIRA, Confluence, Trello	
+
+PROFESSIONAL EXPERIENCE
+Client: Ericsson, Plano, Texas 	                                                                                                                  Apr 2023 – Till Date
+Role: Full Stack Web developer
+
+Responsibilities:
+	•	Built and maintained secure, responsive UI components with React.js (v16–v18), TypeScript, Redux Toolkit, React Hook Form, React Query, ensuring WCAG compliance and optimal cross-browser performance.
+	•	Applied Tailwind CSS and SASS design tokens to standardize styling and speed up UI updates.
+	•	Utilized Typescript Generics in custom hooks and reusable components to achieve flexibility while preserving type safety.
+	•	Used TypeScript with React Query to define API response types, minimizing integration errors.
+	•	Designed and developed RESTful APIs with Node.js (v19) & Express.js, applying MVC, JWT authentication, RBAC, middleware, centralized error handling, and event-driven patterns.
+	•	Built microservices and reusable Node.js modules, optimizing API integration and internal tooling.
+	•	Integrated Azure AD authentication for seamless Single Sign-On (SSO) and secure user management.
+	•	Designed and optimized MySQL schemas, stored procedures, joins, queries, improving performance with indexing and tuning.
+	•	Managed MongoDB sharding, replication, and aggregation pipelines for scalability.
+	•	Implemented serverless file workflows using AWS S3 signed URLs and established centralized monitoring with Winston logging to CloudWatch, improving system reliability and security
+	•	Set up Dockerized environments and migrated from Vagrant for consistent builds.
+	•	Designed and consumed GraphQL APIs alongside RESTful services, enabling flexible data fetching and reducing over/under-fetching issues in client applications.
+	•	Built type-safe GraphQL queries and mutations with TypeScript, improving developer productivity and reducing runtime errors.
+	•	Created secure AWS S3 file flows using signed URLs, SDK and deployed with Lambda, API Gateway, and Dockerized microservices.
+	•	Optimized frontend bundles with Webpack to apply tree-shaking, code splitting, lazy loading.
+	•	Automated end-to-end test cases in Cypress to validate user journeys across browsers, integrating results into CI/CD pipelines for continuous validation.
+	•	Implemented the best observability practices with Grafana to track system performance, request latency, and error rates in real time.
+	•	Followed Test Driven development TDD, building automated unit, integration, and E2E tests with Jest, React Testing Library, Karma, Cypress.
+	•	Provided production support for 7 applications, resolving incidents, debugging logs, and deploying hotfixes.
+	•	Involved and Led usability testing sessions and analytics reviews to get user feedback to identify accessibility gaps and guide improvements in navigation and interface design.
+	•	Wrote clear troubleshooting notes and step-by-step guides so the team could quickly resolve recurring issues without delays.
+	•	Mentored junior developers and new resources, reviewing pull requests and providing technical guidance.
+	•	Collaborated with product managers and UX teams to refine user stories, estimate effort, and ensure smooth sprint execution. 
+Environment: React.js, Redux Toolkit, Tailwind CSS, SASS, HTML5, CSS3, JavaScript(ES6), TypeScript, Node.js, Express.js, RESTful APIs, OAuth 2.0, JWT, MySQL, MongoDB, AWS, Azure, Docker, Grafana, Jenkins, GitHub Actions, CI/CD, Grafana, Postman, Jest, Cypress, Git, JIRA, AI tools
+
+Client: Tata Consultancy Services, Hyderabad, IND		                                                     Jan 2020 – Nov 2022 
+Role: Full Stack Web Developer 
+
+Responsibilities:
+	•	Modernized legacy APIs by migrating from Laravel to Node.js (v16) and TypeScript, applying SOLID principles, modular architecture, and clean coding practices.
+	•	Built RESTful APIs and middleware with Node.js with Express.js Framework, implementing JWT, OAuth2, RBAC, input validation, logging, centralized error handling, and API versioning.
+	•	Optimized performance using Redis caching, cron jobs, and Redis queues for background schedulers and recurring data processing tasks.
+	•	Designed and optimized schemas, queries, and stored procedures in MySQL with Sequelize ORM
+	•	Integrated third-party systems (ELIS, PRIM, CORA, Epic Systems) via Node.js microservices for interoperability.
+	•	Automated infrastructure provisioning using AWS CloudFormation, ensuring consistent and repeatable environment setups.
+	•	Wrote complex aggregation pipelines to perform data transformations, analytics, and reporting directly within MongoDB.
+	•	Designed type-safe database models with TypeORM MySQL, enabling compile-time validation for SQL operations.
+	•	Delivered full-stack features using React.js, Redux, Context API, TypeScript, and React Native, with performance optimizations like lazy loading, virtualization, tree-shaking.
+	•	Configured and maintained WordPress Multisite deployments on Pantheon, supporting multiple sites with shared services, consistent branding, and reliable publishing workflows.
+	•	Ensured security and compliance WCAG with robust authentication, authorization, and accessibility practices.
+	•	Configured Webpack to Optimize frontend bundles for tree-shaking, lazy loading, and code splitting, improving page load times and Lighthouse performance scores.
+	•	Wrote unit and integration tests in Jest with TypeScript, enforcing static type safety in test cases.
+	•	Customized WordPress themes and plugins to meet accessibility standards and integrate data sources, ensuring smooth functionality across student-facing websites.
+	•	Mentored Junior and new resources assigning tasks, reviewing code and deliverables, and ensuring all work met accessibility (WCAG) and coding standards.
+	•	Involved in Production support and resolved platform issues including plugin errors, API failures, and outages, helping reduce downtime for users.
+	•	Monitored and Maintained website performance and uptime in AWS cloud environments by fine-tuning caching layers and optimizing queries, resulting in faster load times and smoother user experience.
+	•	Worked with Pantheon hosting workflows with Git for secure deployments, rollbacks, and collaboration with content editors and developers.
+	•	Involved in checking and Updating CMS platforms, applying patches and strengthening settings to keep systems secure and protect sensitive data.
+	•	Collaborated in Agile teams, translating Figma designs to UI, mentoring peers, conducting code reviews, and presenting solutions to stakeholders.
+
+Environment: React.js, TypeScript, JavaScript (ES6+), Node.js, Express.js, PHP, Laravel, Wordpress, RESTful APIs, Redux, MySQL, MongoDB, Redis, AWS (S3, Lambda, CloudWatch), Docker, Kubernetes, Jenkins, Git, GitHub, CI/CD, WebSockets, Socket.io, JWT, OAuth2, React Testing Library, Cypress
+
+Client: Royal IT Park Service, Hyderabad, IND		                                                                    Sep 2018 – Dec 2019
+Role: Web Developer
+
+Responsibilities:		
+	•	Built responsive web applications using HTML5, CSS3, Bootstrap, Angular, and jQuery, enabling appointment, billing, and scheduling features with real-time API integration.
+	•	Collaborated with UX/UI designers to transform Figma wireframes into interactive prototypes, ensuring alignment with user needs and design specifications.
+	•	Built and managed application state using RxJS, NgRx Store & Signal Store to improving scalability and keeping components lightweight through OnPush detection, trackBy functions, lazy loading, and code splitting.
+	•	Applied reactive programming patterns with RxJS and NgRx selectors to streamline data flow, cut down redundant API calls, and ensure predictable updates across complex modules.
+	•	Integrated NgRx Store alongside the newer Signal Store to handle high-traffic workflows, boosting performance and making state management more reliable for enterprise-level apps.
+	•	Designed reusable Angular components, services, and directives with TypeScript interfaces and classes, ensuring type safety across the application.
+	•	Implemented Reactive Forms and Template-driven Forms with TypeScript validation models to enforce type-safe form handling.
+	•	Developed RESTful APIs with Node.js/Express, structured with MVC, JWT/OAuth2 authentication, middleware, and centralized error handling.
+	•	Designed and managed MongoDB/Mongoose and MySQL schemas, applied indexing, aggregation pipelines, and optimized queries for scalable, data-heavy applications.
+	•	Integrated payment gateways (Stripe and CCAvenue) and SMTP protocols for secure transactions, notifications, and automated workflows.
+	•	Created efficient data models and durable APIs to enable seamless communication between front-end and back- end systems.
+	•	Migrated static assets to AWS S3, and automated deployments with CI/CD pipelines using Jenkins
+	•	Ensured application security with CORS, CSRF protection, RBAC, and compliance with OWASP and WCAG standards.
+	•	Worked within an NX Monorepo structure to manage multiple Angular components, streamlining shared module usage and deployment pipelines.
+	•	Optimized web applications for cross-browser compatibility and multiple device resolutions, ensuring consistent performance and UI behavior
+	•	Used Postman for API testing and documentation to streamline collaboration between frontend and backend teams.
+	•	Translated complex business requirements into technical designs while working closely with product managers and designers.
+	•	Translated business requirements into user-friendly web flows, reducing friction points and increasing adoption rates in production apps.
+	•	Authored API contracts, architecture diagrams, and system documentation, collaborating in Agile teams with product, design, and QA to deliver scalable solutions.
+
+Environment: HTML5, CSS3, Bootstrap, JavaScript (ES6+), Typescript, Angular, jQuery, Figma, Node.js, RESTful APIs, MySQL, MongoDB (Mongoose), AWS S3 (storage & signed URLs), Stripe & CCAvenue payment gateways, OAuth2 & JWT authentication, Jest & Karma testing frameworks, Webpack, Jenkins (CI/CD), Agile & Scrum methodologies, UX/UI design and accessibility compliance (WCAG 2.1/2.2)
+
+Client: Positive Shift Technologies, Hyderabad, India	                                                                Aug 2017 – Aug 2018 
+Role: Software Engineer
+
+Responsibilities:
+	•	Worked closely with academic and student services teams to design web platforms that were both accessible and easy to use, helping students navigate resources more smoothly.
+	•	Built API-based features that connected websites with student information systems and library tools, creating a more seamless and integrated experience.
+	•	Streamlined access to forms, applications, and service portals, cutting down steps and improving student engagement and satisfaction.
+	•	Designed and developed responsive user interfaces with HTML5, CSS3, Bootstrap, JavaScript, and jQuery, optimized for desktop, tablet, and mobile devices.
+	•	Translated Figma wireframes into reusable, pixel-perfect UI components, ensuring cross-browser compatibility and WCAG compliance.
+	•	Applied WCAG standards, ARIA roles, and semantic HTML to make applications inclusive for all users.
+	•	Added client-side validation, DOM manipulation, event handling, and animations with jQuery to improve UX with real-time feedback.
+	•	Delivered new features in incremental Agile releases, using CI pipelines to support faster and more reliable deployments.
+	•	Built interactive dashboards and visualizations with D3.js, giving stakeholders clear insights into complex data.
+	•	Developed backend services with Core PHP and CodeIgniter (3.x), including secure RESTful APIs with token-based authentication, CSRF/XSS protection, and robust session handling.
+	•	Designed and optimized MySQL databases, applying normalization, joins, and query optimization for scalable performance.
+	•	Tested and validated APIs with Postman, ensuring proper authentication, error handling, and data consistency.
+	•	Used Google Analytics to track user engagement and guide UX improvements.
+	•	Deployed and maintained applications in staging and development environments using XAMPP, FileZilla, and Git-based version control.
+	•	Partnered in Agile sprints using JIRA, working with UX and QA teams to deliver accessible, user-friendly applications.
+	•	Participated in professional development workshops on accessibility and web technologies, applying new practices to ongoing projects.
+	•	Collaborated directly with designers in Figma, providing feedback on technical feasibility, ensuring design system consistency, and implementing accessible components.
+	•	Authored clear technical documentation for APIs, workflows, and database schemas, making knowledge-sharing and maintenance easier for the team.
+Environment: HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, JSON, Core PHP, CodeIgniter 3.x, MVC, Authentication, CSRF Protection, Session Management, RESTful APIs, Postman, MySQL, Razorpay, FileZilla, XAMPP, JIRA, Adobe XD, D3.js, Agile, WCAG, Testing, UX/UI Design  
+COVER LETTER
+Manasa Addanki  Ann Arbor, MI ✉️ manasa060t@gmail.com | 📱 (616) 258-6460  September 22, 2025
+ Hiring Committee  University of Michigan – Student Life Technology Solutions  Ann Arbor, MI
+Re: Application for Web Platform Developer (Job ID: 268781)
+Dear Hiring Committee,
+I am excited to apply for the Web Platform Developer role at the University of Michigan. With over seven years of experience as a Full-Stack Web Developer, I have a proven record of designing, building, and maintaining accessible, student-focused web platforms using modern CMS solutions, front-end frameworks, and cloud-native technologies. This role resonates strongly with my career path and aligns with my passion for delivering inclusive, user-centered digital experiences in higher education.
+In my current and past roles, I have:
+	•	Customized and maintained WordPress Multisite deployments on Pantheon, ensuring consistent theming, accessibility, and reliable publishing workflows.
+	•	Built WCAG 2.1/Title II–compliant interfaces with HTML5, CSS3/SCSS, JavaScript, jQuery, React.js, Angular, and TypeScript, optimized for cross-device compatibility.
+	•	Developed and integrated RESTful and GraphQL APIs with Node.js, Express.js, and PHP/Laravel/Codeigniter, enabling seamless connections between cloud-based and on-premise systems.
+	•	Performed platform administration including uptime monitoring, CMS security assessments, and break/fix triage, while streamlining deployments using Git and Pantheon workflows.
+	•	Partnered with academic and student service teams to design user-friendly web platforms, simplify access to forms and portals, and improve engagement through usability testing and analytics reviews.
+Beyond technical expertise, I bring a collaborative mindset—mentoring junior developers, coordinating with vendors, and serving as a technology ambassador to promote accessibility best practices. My hands-on experience with AWS, Azure, and database optimization (PostgreSQL, MySQL, MongoDB, Redis) complements my ability to deliver sustainable and secure web solutions for diverse users.
+I am inspired by the University of Michigan’s commitment to innovation and accessibility, and I am eager to contribute my skills to support Student Life Technology Solutions in enhancing the student experience. I would welcome the opportunity to discuss how my background aligns with your needs.
+Thank you for considering my application. I look forward to the possibility of joining your team.
+Sincerely, Manasa Addanki
+ 

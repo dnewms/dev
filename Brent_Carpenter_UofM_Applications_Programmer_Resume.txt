@@ -1,0 +1,46 @@
+Brent Carpenter 8928 Staghorn Trail Parma, MI 49269 brent.carpenter.112@gmail.com | (313) 404-1979
+October 27, 2025
+Hiring Committee  University of Michigan  Ann Arbor, MI
+Dear Hiring Committee,
+I am writing to express my interest in the Applications Programmer Associate position at the University of Michigan. With a B.S. in Information Technology Management and hands-on experience supporting and improving IT systems for the Michigan Department of Technology, Management and Budget (DTMB), I bring strong programming, data-analysis, and documentation skills aligned with your team’s mission to deliver reliable, efficient applications.
+At DTMB, I collaborate with developers and analysts to automate reporting, manage application data, and ensure compliance with State IT standards. I have built Python scripts for data cleaning and analysis, created workflow documentation, and supported validation testing to confirm technical requirements. My work with SQL, Microsoft Access, and Azure DevOps (ADO) has streamlined project tracking and reporting processes.
+Previously, as a Technical Support Agent with Peckham, I developed troubleshooting and user-support skills while creating documentation that improved response times and team knowledge. Combined with my programming coursework and independent projects, these experiences have given me a practical foundation in application development, testing, and support.
+I am enthusiastic about contributing to the University’s mission through technology and would welcome the opportunity to discuss how my technical and analytical background aligns with your goals.
+Sincerely,  Brent Carpenter
+
+Brent Carpenter
+8928 Staghorn Trail, Parma, MI 49269 Email: brent.carpenter.112@gmail.com | Phone: (313) 404-1979
+Objective
+To obtain an Applications Programmer Associate position at the University of Michigan where I can apply my Python, SQL, and analytical problem-solving skills to develop, test, and support software applications that improve efficiency and user experience.
+Education
+Bachelor of Science in Information Technology Management Purdue University Global – Online | Graduated: 2023 Graduated with a 4.0 GPA Focus: Project Coordination, Business Systems, IT Strategy, and Technical Communication
+Experience
+Department of Technology, Management and Budget (DTMB) – Lansing, MI Project Coordinator (Contractor) | January 2025 – Present
+Collaborate with IT teams to analyze business requirements and develop solutions aligned with SUITE and State standards.
+Create and maintain project documentation, including functional specifications, workflows, and user documentation.
+Automate data-handling and reporting processes using Python and Excel macros, improving efficiency and reducing manual work.
+Utilize Clarity for portfolio management, tracking budgets, timelines, and risks for multiple development and maintenance projects.
+Provide technical and analytical support for ITIF-funded projects, ensuring data accuracy and compliance with internal standards.
+Support system testing and validation efforts to confirm requirements are met prior to release.
+ PECKHAM, INC. – Grand Rapids, MI (Remote) Tier 1 Technical Support Agent | January 2024 – January 2025
+Provided remote application and technical support to end users, troubleshooting software and connectivity issues.
+Created and maintained technical documentation and knowledge base articles to streamline future support.
+Collaborated with development and infrastructure teams to resolve system issues and enhance performance.
+Monitored recurring ticket patterns and produced analytical reports to identify root causes and improve support workflows.
+ Packaging Engineering Roles – Multiple Employers Packaging Engineer / Designer | 2017 – 2020
+Gathered requirements and developed data-tracking systems for process improvement and design validation.
+Created structured documentation, test reports, and quality metrics using Access and SQL queries.
+Designed and optimized workflows to improve operational accuracy and reduce costs by up to 33%.
+ U.S. Air Force – Minot AFB, ND Nuclear Weapons Technician | October 2011 – April 2017
+Authored and maintained technical manuals and operational checklists to ensure 100% compliance.
+Managed complex systems documentation and maintenance records requiring precision and version control.
+Conducted procedural audits and contributed to automation of reporting processes.
+Projects & Technical Experience
+Developed a Python random number generator (RNG) to support probability-based simulations and data modeling.
+Created a Python data-cleaning script to process CSV data, remove duplicates, and normalize values for analysis.
+Built and queried small databases using MySQL and Access, integrating SQL queries to support reporting and workflow optimization.
+Skills
+Programming & Databases: Python, SQL, MySQL, JavaScript, HTML, CSS, Microsoft Access
+Development Tools: Visual Studio, Clarity, MS Project
+Technical Proficiencies: Application support, QA testing, process automation, data analysis, documentation
+Soft Skills: Cross-functional collaboration, requirements gathering, technical writing, stakeholder communication

@@ -1,0 +1,78 @@
+
+
+Dear Hiring Manager,
+
+If you're looking for a Tier 1 candidate who brings a blend of technical skills, creativity, and business-minded thinking, I believe I’m the right fit for your team. I’m currently pursuing one of the most competitive and rigorous majors at Virginia Tech, Business Information Technology, which combines software engineering, cybersecurity, and data management with real-world business analytics.
+Over the summer, I interned at UWM (United Wholesale Mortgage), the nation’s #1 wholesale mortgage lender, where I developed a solution for failed mortgage document extractions, helping underwriters reduce manual review on documents often exceeding 160 pages per loan. Built using C#, TypeScript, and React, the tool accelerated processing timelines, keeping ~$100B in annual lending on schedule.
+Additional contributions included:
+	•	Writing unit and integration tests to ensure frontend and backend reliability
+	•	Creating database scaffolding and migration scripts for leadership reporting
+	•	Using Dynatrace to baseline and monitor project performance
+	•	Operating in an Agile/Scrum environment using JIRA for sprint management
+In addition, at Virginia Tech, I won a coding project competition by developing a program designed to assist investors facing a dilemma in choosing between multiple opportunities. The software accepted five investment options as input and ranked them based on performance, helping the investor prioritize and select the most promising one
+Beyond technical execution, I bring strong communication and client-facing abilities. While teaching at iD Tech, I mastered the art of translating complex technical concepts into simple, actionable insights and communicating effectively with non-technical stakeholders.
+I also bring an entrepreneurial mindset. In high school, I founded and scaled my own company from the ground up into a thriving business. That experience taught me how to solve problems creatively, adapt quickly, and take ownership.
+With my technical foundation, problem-solving ability, collaborative nature, and business-oriented thinking, I’m excited to bring highly portable skills to your forward-thinking team, after graduation. I’d welcome the opportunity to contribute to your mission and grow with your company.
+Thank you for your time and consideration.
+
+
+Stefan Mitroi
+ Stefanm@vt.edu | 734-585-6939 | LinkedIn
+	
+EDUCATION: 
+Virginia Tech, Blacksburg, VA 							GPA: 3.5/4.0 Dean’s List 2022-2026
+Bachelor of Science: 								Expected Graduation: May 2026  
+Major: Business Information Technology - Computer-Based Decision Support Systems (DSS) Management	
+Minor: Finance/ Accounting		
+
+SKILLS: Python, R coding, SQL, Typescript, React, Java, JavaScript, C#, .NET, Power BI, Excel, Microsoft Office, Salesforce CRM, Azure Cloud, Unity, Jira, Financial and Data Analytics, Actuarial Modeling, Database Admin, Database Structure/Scaffolding, Big Data, AI Prompting, Linux, Google Analytics, WordPress, SAP, Adobe, Photoshop, Pro Tools
+ EXPERIENCE: 	
+
+United Wholesale Mortgage (UWM), Pontiac, MI					May 2025 – September 2025
+Information Technology and Data Management Intern
+	•	At UWM, the nation’s leading wholesale mortgage lender, I produced a software solution using C#/ Typescript/ React to extract failed mortgage documents, assisting underwriters with efficient loan processing time
+	•	Project was designed to reduce page-by-page manual review of documents exceeding 160 pages per loan and assist ~100B annual lending stay on schedule. The Replay Extraction was applied after third-party outages took 
+	•	Developed behavioral unit and integration tests to validate expected functionality in front-end and back-end
+	•	Wrote database scaffolding and migration scripts for logging and reporting to senior leadership
+	•	Used Dynatrace for baselining and creating dashboards to monitor project performance and Jira for project management and work tracking through each sprint, while aligning with agile and scrum principles
+	•	Assisted with data center operations, including infrastructure monitoring in a hybrid cloud environment
+iD Tech Co., Ann Arbor, MI 								June 2023 – September 2024
+Summer Technology Instructor
+	•	Taught Python, Java, Unity coding, Machine learning, AI prompting and game development for 200+ students
+	•	Developed quantitative, statistics and coding coursework and translated technical concepts for students 
+	•	Managed network set up, troubleshooting, research, root cause analysis, and network problem resolution
+	•	Analyzed and identified risks and helped test and deploy systemic solutions to prevent vulnerabilities
+
+Out the Way LLC. – www.outtheway.net 	 					June 2018 – August 2024
+Founder – Technical & Audio Engineer
+	•	Successful music industry entrepreneur, built business from scratch, created the brand, marketing strategy, break even and profitability projections, handled finances and profit portfolio investment for sustainability
+	•	Produced over 800 records played on over 300 platforms (Apple, Spotify) applying complex algorithms to enhance sound, and songs with 20 million+ views. Created and managed a secure client database for outreach
+	•	Mixed, mastered tracks using Avid Pro Tools and FL Studio, with songs featured as “most promising” artist 2022
+	•	Created a cloud strategy, including design, planning, maintenance and vulnerability testing and system security
+
+Club Colors, Chicago, IL									June 2021 - August 2021
+Consulting/Marketing Intern
+	•	Conducted discovery for client Hirschbach to improve their new hire onboarding and increase engagement 
+	•	Created a project plan and performed in-depth market research to benchmark and find out best practices
+	•	Designed digital marketing materials using Adobe Photoshop and Illustrator with specific metrics of success
+
+Press Pause Inc, Atlanta, GA 								December 2023 – August 2024 Intern – Healthcare Podcaster 
+	•	Conducted research on emerging Healthcare trends, collaborated on a mental health awareness podcast on suicide prevention, published on major platforms, and increased streaming utilizing RSS feed optimization.
+
+LEADERSHIP AND VOLUNTEER WORK:     
+VT Underground Volunteer Club, Co-Founder, Treasurer 				August 2022 - Currently
+	•	Managed club finances, reported on the club’s financial performance and spearheaded fundraising efforts 
+	•	Planned, coordinated live sound setup for 25+ campus events, marketed with technology-based solutions.
+	•	Handled modeling and audio, visual, voice, data, security and access control design for conferencing events
+
+RECENT ACHIEVEMENTS:     				
+
+2nd Place – Virginia Tech Business Information Technology Team Competition Researched, programmed and presented a predictive financial performance analytics tool to allocate funds between 5 stock investment options using real time data-driven models of the stock market and an intuitive, user-friendly interface.
+
+CERTIFICATIONS IN PROGRESS:     				
+
+Google Data Analytics Professional Certificate (Coursera) - foundational program for professionals in Finance
+IBM Data Science Professional Certificate (Coursera) - Python, SQL, data visualization, and machine learning.
+Microsoft Certified: Data Analyst Associate (Power BI) - focused on interpreting data and making business decisions
+SAS Certified Specialist: Base Programming Using SAS 9.4 – focused on finance and enterprise data analytics
+
