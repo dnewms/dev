@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23A344" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Animal" representedClassName="Animal" syncable="YES" codeGenerationType="class">
+        <attribute name="breed" optional="YES" attributeType="String"/>
+        <attribute name="color" optional="YES" attributeType="String"/>
+        <attribute name="currentWeight" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="dateOfBirth" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="gender" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="NO" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="motherTagNumber" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="NO" attributeType="String"/>
+        <attribute name="notes" optional="YES" attributeType="String"/>
+        <attribute name="photoData" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES"/>
+        <attribute name="purchaseDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="purchasePrice" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" defaultValueString="active"/>
+        <attribute name="tagNumber" optional="NO" attributeType="String"/>
+        <attribute name="type" optional="NO" attributeType="String"/>
+        <relationship name="feedingSchedules" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="FeedingSchedule" inverseName="animal" inverseEntity="FeedingSchedule"/>
+        <relationship name="healthRecords" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="HealthRecord" inverseName="animal" inverseEntity="HealthRecord"/>
+        <relationship name="vetVisits" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="VetVisit" inverseName="animal" inverseEntity="VetVisit"/>
+        <relationship name="weightRecords" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="WeightRecord" inverseName="animal" inverseEntity="WeightRecord"/>
+    </entity>
+    <entity name="BreedingRecord" representedClassName="BreedingRecord" syncable="YES" codeGenerationType="class">
+        <attribute name="breedingDate" optional="NO" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="expectedDueDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="fatherTagNumber" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="NO" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="motherTagNumber" optional="NO" attributeType="String"/>
+        <attribute name="notes" optional="YES" attributeType="String"/>
+        <attribute name="outcome" optional="YES" attributeType="String"/>
+        <attribute name="birthDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="numberOfOffspring" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="FeedingSchedule" representedClassName="FeedingSchedule" syncable="YES" codeGenerationType="class">
+        <attribute name="amount" optional="NO" attributeType="String"/>
+        <attribute name="feedType" optional="NO" attributeType="String"/>
+        <attribute name="frequency" optional="NO" attributeType="String"/>
+        <attribute name="id" optional="NO" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="notes" optional="YES" attributeType="String"/>
+        <attribute name="reminderEnabled" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="reminderTime" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="startDate" optional="NO" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="animal" optional="NO" maxCount="1" deletionRule="Nullify" destinationEntity="Animal" inverseName="feedingSchedules" inverseEntity="Animal"/>
+    </entity>
+    <entity name="HealthRecord" representedClassName="HealthRecord" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="NO" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="dosage" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="NO" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="nextDueDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="notes" optional="YES" attributeType="String"/>
+        <attribute name="type" optional="NO" attributeType="String"/>
+        <attribute name="vaccineName" optional="NO" attributeType="String"/>
+        <attribute name="veterinarian" optional="YES" attributeType="String"/>
+        <relationship name="animal" optional="NO" maxCount="1" deletionRule="Nullify" destinationEntity="Animal" inverseName="healthRecords" inverseEntity="Animal"/>
+    </entity>
+    <entity name="VetVisit" representedClassName="VetVisit" syncable="YES" codeGenerationType="class">
+        <attribute name="cost" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="date" optional="NO" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="diagnosis" optional="YES" attributeType="String"/>
+        <attribute name="followUpDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="id" optional="NO" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="notes" optional="YES" attributeType="String"/>
+        <attribute name="reason" optional="NO" attributeType="String"/>
+        <attribute name="treatment" optional="YES" attributeType="String"/>
+        <attribute name="veterinarianName" optional="NO" attributeType="String"/>
+        <relationship name="animal" optional="NO" maxCount="1" deletionRule="Nullify" destinationEntity="Animal" inverseName="vetVisits" inverseEntity="Animal"/>
+    </entity>
+    <entity name="WeightRecord" representedClassName="WeightRecord" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="NO" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="id" optional="NO" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="notes" optional="YES" attributeType="String"/>
+        <attribute name="weight" optional="NO" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <relationship name="animal" optional="NO" maxCount="1" deletionRule="Nullify" destinationEntity="Animal" inverseName="weightRecords" inverseEntity="Animal"/>
+    </entity>
+</model>

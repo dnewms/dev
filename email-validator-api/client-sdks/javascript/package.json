@@ -1,0 +1,22 @@
+{
+  "name": "@emailvalidator/sdk",
+  "version": "1.0.0",
+  "description": "JavaScript SDK for Email Validator API",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email",
+    "validation",
+    "api",
+    "sdk"
+  ],
+  "author": "Email Validator API",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/email-validator-api"
+  }
+}

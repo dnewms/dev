@@ -1,0 +1,125 @@
+// Prisma schema for Email Validator API
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id            String   @id @default(cuid())
+  email         String   @unique
+  passwordHash  String
+  name          String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  apiKeys       ApiKey[]
+  validations   Validation[]
+  subscription  Subscription?
+  usage         Usage[]
+}
+
+model ApiKey {
+  id          String   @id @default(cuid())
+  key         String   @unique
+  name        String
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  isActive    Boolean  @default(true)
+  createdAt   DateTime @default(now())
+  lastUsedAt  DateTime?
+
+  validations Validation[]
+  usage       Usage[]
+
+  @@index([userId])
+  @@index([key])
+}
+
+model Validation {
+  id              String   @id @default(cuid())
+  email           String
+  isValid         Boolean
+
+  // Validation details
+  syntaxValid     Boolean
+  mxValid         Boolean
+  smtpValid       Boolean
+  isDisposable    Boolean
+
+  // Metadata
+  domain          String
+  suggestion      String?
+
+  // Relations
+  userId          String
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  apiKeyId        String
+  apiKey          ApiKey   @relation(fields: [apiKeyId], references: [id], onDelete: Cascade)
+
+  createdAt       DateTime @default(now())
+
+  @@index([userId])
+  @@index([apiKeyId])
+  @@index([createdAt])
+}
+
+enum SubscriptionTier {
+  FREE
+  STARTER
+  PRO
+  ENTERPRISE
+}
+
+model Subscription {
+  id                    String           @id @default(cuid())
+  userId                String           @unique
+  user                  User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  tier                  SubscriptionTier @default(FREE)
+  stripeCustomerId      String?          @unique
+  stripeSubscriptionId  String?          @unique
+  stripePriceId         String?
+
+  // Limits
+  monthlyQuota          Int              @default(100)
+  validationsThisMonth  Int              @default(0)
+
+  // Billing
+  currentPeriodStart    DateTime?
+  currentPeriodEnd      DateTime?
+  cancelAtPeriodEnd     Boolean          @default(false)
+
+  createdAt             DateTime         @default(now())
+  updatedAt             DateTime         @updatedAt
+
+  @@index([userId])
+  @@index([stripeCustomerId])
+}
+
+model Usage {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  apiKeyId    String
+  apiKey      ApiKey   @relation(fields: [apiKeyId], references: [id], onDelete: Cascade)
+
+  endpoint    String
+  validations Int      @default(1)
+  timestamp   DateTime @default(now())
+
+  @@index([userId, timestamp])
+  @@index([apiKeyId])
+}
+
+model DisposableDomain {
+  id        String   @id @default(cuid())
+  domain    String   @unique
+  createdAt DateTime @default(now())
+
+  @@index([domain])
+}
