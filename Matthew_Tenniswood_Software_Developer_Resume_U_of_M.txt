@@ -1,48 +1,0 @@
-Matthew Tenniswood 777 Bunce Ave. Marysville, Michigan, 48040 mrtenniswood@gmail.com 810-841-3566
-Dear Hiring Manager,
-I am writing to express my interest in the Applications Programmer Associate position at the University of Michigan. With a Bachelor of Science in Computer Science from Kettering University and a GPA of 3.5, I have a solid foundation in software development principles and a genuine passion for writing efficient, scalable code. Through my education and five terms as an intern with Magna Electric Vehicle Structures, I have honed my technical skills and gained hands-on experience with industry practices that I’m eager to bring to your team.
-Throughout my time at Kettering, I developed proficiency in a range of programming languages, including Python, Java, and C++, and I am enthusiastic about learning new technologies as the field evolves. My coursework, along with my thesis project, which focused on enhancing communication between HR and IT departments, has equipped me with the analytical and collaborative skills needed to contribute to a dynamic team environment.
-Thank you for considering my application. I look forward to the opportunity to discuss how my background and skills align with the needs of your team.
-Sincerely, Matthew Tenniswood
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Matthew Tenniswood
-Email: mrtenniswood@gmail.com Phone: (810) 841-3566 Address: 777 Bunce Avenue, Marysville, MI 48040
-ABOUT 
-Results-driven Software Developer and Computer Science graduate from Kettering University with extensive hands-on experience through multiple internships at Magna Electric Vehicle Structures. Highly proficient in Java, Python, and SQL with demonstrated success developing internal software tools and database solutions. Exceptional problem-solving and troubleshooting skills with a proven ability to learn new technologies quickly. Seeking an entry-level Software Developer position to deliver innovative software solutions
-TECHNICAL SKILLS
-Programming Languages: Java (Advanced), Python, SQL (Advanced), C++, JavaScript
-Development Tools: Git, Visual Studio Code, GitHub Database Technologies: Microsoft SQL Server
-Development Methodologies: Agile (Scrum), Object-Oriented Programming Software Solutions: Power Automate, Power Apps, Nagios Core Additional Skills: Power BI, Network Monitoring, UI/UX Design, Database Architecture Design, API
-
-EXPERIENCE
-Magna Electric Vehicle Structures, St. Clair, MI| IT/Software Development Intern  April 2022 - June 2024
-	•	Developed and implemented a network device monitoring system using Nagios Core that improved IT response time by 20% 
-	•	Designed and optimized SQL database architecture to support cross-departmental employee onboarding processes
-	•	Created custom Power Automate scripts that reduced repetitive administrative tasks
-	•	Built interactive dashboards using Power Apps and Power BI that streamlined communication between IT and HR teams
-	•	Troubleshot and resolved critical technical issues across multiple platforms, demonstrating strong analytical skills
-EDUCATION
-Kettering University | Flint, MI
-	•	Bachelor of Science in Computer Science, September 2024
-	•	GPA: 3.50
-	•	Thesis: Improving Hiring Communication between the HR and IT Departments
-ADDITIONAL RELEVANT EXPERIENCE
-FIRST ROBOTICS Team 5843, East China, MI: Lead Programming Mentor
-September 2020-Present
-	•	Mentored high school students in LabVIEW and Java programming
-	•	Taught students to design, create, and debug autonomous routines
-	•	Taught students to engage in collaborative teams and processes
-	•	Led team to a 2025 State championship and participation at the 2025 World Championship; top 10% of 2025 FRC teams in Michigan

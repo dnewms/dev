@@ -1,52 +1,0 @@
-John Masters Ann Arbor, MI 48104 • johnclyde@protonmail.com • 989.387.1902 • www.linkedin.com/in/john-masters-1aab10346
-October 24, 2025
-Search Committee Michigan Engineering, Robotics Department University of Michigan  Dear Search Committee,
-Greetings from Ann Arbor. Thanks for considering my qualifications for the Applications Programmer Assoc role supporting the Robotics Department. Michigan Engineering’s mission, advancing scientific and technological leadership for the common good, aligns with how I work: build reliable tools, listen closely to users, and turn feedback into practical software that improves teaching, research, and day-to-day operations. 
-
-Although my most recent experience was in a leadership role, my goal is to re-engage as a software engineer and deliver solutions end-to-end. I have over a decade of development experience across both Java and Microsoft stacks, including the use of parallel tools to help manage the development process. 
-Why I’m a strong fit for your needs
-	•	Coding & web development: I design, implement, and debug web applications and internal tools using JavaScript with clean, testable code, clear interfaces, and attention to accessibility and maintainability.
-	•	Application support & documentation: I respond quickly to issues, troubleshoot across the stack, and capture solutions in concise knowledge articles. I instrument apps with basic monitoring so routine problems surface early and are easy to resolve.
-	•	Database interactions: I write performant SQL queries and scripts, create migrations, and build data-access layers that keep logic simple and auditable.
-	•	Analysis & requirements: I run lightweight discovery with non-technical stakeholders, translate needs into user stories and acceptance criteria, and iterate transparently so there are no surprises at delivery.
-	•	Security & compliance: I follow established policies and secure-by-default practices (least privilege, input validation, secret management, logging), and I assist with updates tied to compliance requirements.
-	•	Quality & collaboration: I participate in test planning, write and execute test cases, and will partner with fellow developers across the College. I enjoy improving internal processes, issue triage, lightweight playbooks, and “shift-left” checks, to make support smoother for staff and students.
-I’m self-directed, organized, and comfortable managing multiple priorities while communicating status in plain language. Throughout my career I’ve built custom tools for stakeholders who aren’t developers, earning trust through responsiveness and clear, respectful communication. I’m eager to bring that service mindset to Michigan Engineering and to contribute to the Robotics community’s teaching and research goals.
-Thank you for your time and consideration. I would welcome the opportunity to discuss how I can help your team deliver dependable applications and outstanding support for faculty, students, and staff.
-Sincerely, John Masters
-John Masters Ann Arbor, MI 48104 • johnclyde@protonmail.com • 989.387.1902 • www.linkedin.com/in/john-masters-1aab10346
-Summary
-Software Engineer with experience in domains including commercial software development, automotive (machine vision), survey and workforce analysis, print-mail, medical billing (ambulance billing) medical records and revenue cycle management. Experience with Microsoft technical stacks (VB, C, C++, C#, TSQL, SSRS), and most recently Java (Spring/Boot). Solutions developed include SOAP/REST web services. Experience developing for compliant environments (e.g.: HIPAA, PCI-DSS, SOC 2) and measuring against OWASP (top 10) risks. Experience as an individual contributor and a Agile/Scrum team member (Jira/Confluence).
-Professional Strengths
-	•	Language skills include Java/MS technologies (Java, XML, JavaScript, Bootstrap, VB, C, C++, C#, TSQL, SSRS)
-	•	Atlassian platform experience (Confluence, Jira, JSM)
-	•	Contributions include both hardware and software development, SaaS integration and configuration
-	•	Successful contributions to more than 13 commercial products
-	•	Achieved SOC1, SOC2, HIPAA, PCI-DSS compliance objectives
-	•	Technical contributions helped earn two US software patents: 
-	•	Method and Apparatus for Peer-To-Peer Communication (US Patent 6,094,676)
-	•	Auto-detect System and Method for Data Communication (US Patent 5,553,271)
- Experience
-VP of Information Technology, EMS Management and Consultants: Winston-Salem, NC • May 2024 - Aug 2025
-Contributed to the post-acquisition migration of 150+ clients from the legacy AccuMed Group platform to EMS|MC, ensuring 100% operational continuity with minimal disruption.
-Owned secure, reliable, and scalable IT operations aligned to corporate objectives; led Information Security, Systems Engineering, and Help Desk departments, serving all business units.
-Advanced enterprise-wide SOC 1 & SOC 2 compliance programs, strengthening cybersecurity posture and meeting healthcare regulatory requirements.
-CIO / Software Engineer, The AccuMed Group: Brownstown Twp, MI • Apr 2007 - May 2024 (Acquired by EMS Management & Consultants)
-	•	Directed enterprise IT strategy, product innovation, and infrastructure modernization for a healthcare revenue cycle management firm. Held executive responsibility for aligning technology with corporate objectives, scaling operations, and preparing the company for eventual acquisition.
-	•	Revitalized a stalled ePCR (Electronic Patient Care Reporting) project, delivering eMedicReports within 24 months, securing adoption by 90+ clients, and generating a new revenue stream.
-	•	Designed and implemented proprietary billing operations systems that improved accuracy, processing speed, and scalability, supporting long-term business growth.
-	•	Achieved and maintained SOC 1 Type I & II compliance, while strengthening cybersecurity governance and workforce training.
-	•	Provided technology leadership and operational stability during the company’s sale in 2024, maintaining compliance and continuity through due diligence.
-
-Director of Technology, Dantom Inc. (now RevSpring, Inc.): Wixom, MI • May 2003 - Apr 2007
-	•	Modernized infrastructure and directed next-generation product development for a leading print-mail solutions provider, enabling scalability, reliability, and revenue growth.
-	•	Built and managed a technology team that pursued new business objectives while maintaining and stabilizing existing platforms.
-Software Engineer / Technical Lead, eePulse, Inc.: Ann Arbor, MI • Jan 2001 - May 2003
-	•	Responsible for tactical decisions regarding new development and maintenance improvements to Measurecom, a web-based survey application Developed & supported this application, used by more than 7000 individuals, serving 23 corporations worldwide in 11 languages.
-VP of Software Development / Business Owner, Integral Software Systems: Ann Arbor, MI • May 1996 - Jan 2001
-	•	Balanced technical leadership and business operations, from client engagement and contracting to delivery and team management.
-	•	Designed and delivered enterprise web applications with advanced database architectures and intuitive UIs.
-	•	Managed client relationships, contracts, and business operations, contributing to company growth and long-term stability. Integral was purchased by eePulse in January of 2001.
-Education
-Bachelor of Science, Computer Science (Minor: Business Administration) Northern Illinois University, DeKalb, IL
-	•	
