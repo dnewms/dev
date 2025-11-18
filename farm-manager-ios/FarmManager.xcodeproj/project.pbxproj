@@ -7,30 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FarmManagerApp.swift in Sources = {isa = PBXBuildFile; };
-		ContentView.swift in Sources = {isa = PBXBuildFile; };
-		PersistenceController.swift in Sources = {isa = PBXBuildFile; };
-		FarmManager.xcdatamodeld in Sources = {isa = PBXBuildFile; };
-		AnimalType.swift in Sources = {isa = PBXBuildFile; };
-		AnimalListView.swift in Sources = {isa = PBXBuildFile; };
-		AddAnimalView.swift in Sources = {isa = PBXBuildFile; };
-		AnimalDetailView.swift in Sources = {isa = PBXBuildFile; };
-		AddHealthRecordView.swift in Sources = {isa = PBXBuildFile; };
-		AddWeightRecordView.swift in Sources = {isa = PBXBuildFile; };
-		AddVetVisitView.swift in Sources = {isa = PBXBuildFile; };
-		FeedingScheduleView.swift in Sources = {isa = PBXBuildFile; };
-		AddFeedingScheduleView.swift in Sources = {isa = PBXBuildFile; };
-		HealthRecordsView.swift in Sources = {isa = PBXBuildFile; };
-		ReportsView.swift in Sources = {isa = PBXBuildFile; };
-		ExportService.swift in Sources = {isa = PBXBuildFile; };
+		A0000001000000000000001 /* FarmManagerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000001000000000000001 /* FarmManagerApp.swift */; };
+		A0000002000000000000001 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000002000000000000001 /* ContentView.swift */; };
+		A0000003000000000000001 /* PersistenceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000003000000000000001 /* PersistenceController.swift */; };
+		A0000004000000000000001 /* FarmManager.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B0000004000000000000001 /* FarmManager.xcdatamodeld */; };
+		A0000005000000000000001 /* AnimalType.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000005000000000000001 /* AnimalType.swift */; };
+		A0000006000000000000001 /* AnimalListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000006000000000000001 /* AnimalListView.swift */; };
+		A0000007000000000000001 /* AddAnimalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000007000000000000001 /* AddAnimalView.swift */; };
+		A0000008000000000000001 /* AnimalDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000008000000000000001 /* AnimalDetailView.swift */; };
+		A0000009000000000000001 /* AddHealthRecordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000009000000000000001 /* AddHealthRecordView.swift */; };
+		A0000010000000000000001 /* AddWeightRecordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000010000000000000001 /* AddWeightRecordView.swift */; };
+		A0000011000000000000001 /* AddVetVisitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000011000000000000001 /* AddVetVisitView.swift */; };
+		A0000012000000000000001 /* FeedingScheduleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000012000000000000001 /* FeedingScheduleView.swift */; };
+		A0000013000000000000001 /* AddFeedingScheduleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000013000000000000001 /* AddFeedingScheduleView.swift */; };
+		A0000014000000000000001 /* HealthRecordsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000014000000000000001 /* HealthRecordsView.swift */; };
+		A0000015000000000000001 /* ReportsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000015000000000000001 /* ReportsView.swift */; };
+		A0000016000000000000001 /* ExportService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000016000000000000001 /* ExportService.swift */; };
+		A0000017000000000000001 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0000017000000000000001 /* Assets.xcassets */; };
+		A0000018000000000000001 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0000018000000000000001 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FarmManager.app = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FarmManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		90000001000000000000001 /* FarmManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FarmManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B0000001000000000000001 /* FarmManagerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FarmManagerApp.swift; sourceTree = "<group>"; };
+		B0000002000000000000001 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B0000003000000000000001 /* PersistenceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistenceController.swift; sourceTree = "<group>"; };
+		B0000004000000000000001 /* FarmManager.xcdatamodeld */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodeld; path = FarmManager.xcdatamodeld; sourceTree = "<group>"; };
+		B0000005000000000000001 /* AnimalType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalType.swift; sourceTree = "<group>"; };
+		B0000006000000000000001 /* AnimalListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListView.swift; sourceTree = "<group>"; };
+		B0000007000000000000001 /* AddAnimalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddAnimalView.swift; sourceTree = "<group>"; };
+		B0000008000000000000001 /* AnimalDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalDetailView.swift; sourceTree = "<group>"; };
+		B0000009000000000000001 /* AddHealthRecordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddHealthRecordView.swift; sourceTree = "<group>"; };
+		B0000010000000000000001 /* AddWeightRecordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddWeightRecordView.swift; sourceTree = "<group>"; };
+		B0000011000000000000001 /* AddVetVisitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddVetVisitView.swift; sourceTree = "<group>"; };
+		B0000012000000000000001 /* FeedingScheduleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedingScheduleView.swift; sourceTree = "<group>"; };
+		B0000013000000000000001 /* AddFeedingScheduleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFeedingScheduleView.swift; sourceTree = "<group>"; };
+		B0000014000000000000001 /* HealthRecordsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthRecordsView.swift; sourceTree = "<group>"; };
+		B0000015000000000000001 /* ReportsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportsView.swift; sourceTree = "<group>"; };
+		B0000016000000000000001 /* ExportService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExportService.swift; sourceTree = "<group>"; };
+		B0000017000000000000001 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B0000018000000000000001 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B0000019000000000000001 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FarmManagerFrameworksBuildPhase = {
+		80000001000000000000001 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -40,29 +61,302 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		MainGroup = {
+		70000001000000000000001 = {
 			isa = PBXGroup;
 			children = (
-				FarmManager,
-				Products,
+				70000002000000000000001 /* FarmManager */,
+				70000003000000000000001 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		Products = {
+		70000002000000000000001 /* FarmManager */ = {
 			isa = PBXGroup;
 			children = (
-				FarmManager.app,
+				B0000001000000000000001 /* FarmManagerApp.swift */,
+				B0000019000000000000001 /* Info.plist */,
+				70000004000000000000001 /* Models */,
+				70000005000000000000001 /* Views */,
+				70000006000000000000001 /* CoreData */,
+				70000007000000000000001 /* Services */,
+				B0000017000000000000001 /* Assets.xcassets */,
+				70000008000000000000001 /* Preview Content */,
+			);
+			path = FarmManager;
+			sourceTree = "<group>";
+		};
+		70000003000000000000001 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				90000001000000000000001 /* FarmManager.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
+		70000004000000000000001 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B0000005000000000000001 /* AnimalType.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		70000005000000000000001 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B0000002000000000000001 /* ContentView.swift */,
+				B0000006000000000000001 /* AnimalListView.swift */,
+				B0000007000000000000001 /* AddAnimalView.swift */,
+				B0000008000000000000001 /* AnimalDetailView.swift */,
+				B0000009000000000000001 /* AddHealthRecordView.swift */,
+				B0000010000000000000001 /* AddWeightRecordView.swift */,
+				B0000011000000000000001 /* AddVetVisitView.swift */,
+				B0000012000000000000001 /* FeedingScheduleView.swift */,
+				B0000013000000000000001 /* AddFeedingScheduleView.swift */,
+				B0000014000000000000001 /* HealthRecordsView.swift */,
+				B0000015000000000000001 /* ReportsView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		70000006000000000000001 /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				B0000003000000000000001 /* PersistenceController.swift */,
+				B0000004000000000000001 /* FarmManager.xcdatamodeld */,
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
+		70000007000000000000001 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				B0000016000000000000001 /* ExportService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		70000008000000000000001 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				B0000018000000000000001 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
+/* Begin PBXNativeTarget section */
+		60000001000000000000001 /* FarmManager */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 60000002000000000000001 /* Build configuration list for PBXNativeTarget "FarmManager" */;
+			buildPhases = (
+				80000002000000000000001 /* Sources */,
+				80000001000000000000001 /* Frameworks */,
+				80000003000000000000001 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FarmManager;
+			productName = FarmManager;
+			productReference = 90000001000000000000001 /* FarmManager.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		50000001000000000000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					60000001000000000000001 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = 50000002000000000000001 /* Build configuration list for PBXProject "FarmManager" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 70000001000000000000001;
+			productRefGroup = 70000003000000000000001 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				60000001000000000000001 /* FarmManager */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		80000003000000000000001 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A0000018000000000000001 /* Preview Assets.xcassets in Resources */,
+				A0000017000000000000001 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		80000002000000000000001 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A0000001000000000000001 /* FarmManagerApp.swift in Sources */,
+				A0000002000000000000001 /* ContentView.swift in Sources */,
+				A0000003000000000000001 /* PersistenceController.swift in Sources */,
+				A0000004000000000000001 /* FarmManager.xcdatamodeld in Sources */,
+				A0000005000000000000001 /* AnimalType.swift in Sources */,
+				A0000006000000000000001 /* AnimalListView.swift in Sources */,
+				A0000007000000000000001 /* AddAnimalView.swift in Sources */,
+				A0000008000000000000001 /* AnimalDetailView.swift in Sources */,
+				A0000009000000000000001 /* AddHealthRecordView.swift in Sources */,
+				A0000010000000000000001 /* AddWeightRecordView.swift in Sources */,
+				A0000011000000000000001 /* AddVetVisitView.swift in Sources */,
+				A0000012000000000000001 /* FeedingScheduleView.swift in Sources */,
+				A0000013000000000000001 /* AddFeedingScheduleView.swift in Sources */,
+				A0000014000000000000001 /* HealthRecordsView.swift in Sources */,
+				A0000015000000000000001 /* ReportsView.swift in Sources */,
+				A0000016000000000000001 /* ExportService.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
 /* Begin XCBuildConfiguration section */
-		Debug = {
+		40000001000000000000001 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		40000002000000000000001 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		40000003000000000000001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
@@ -75,6 +369,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -89,10 +384,9 @@
 			};
 			name = Debug;
 		};
-		Release = {
+		40000004000000000000001 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
@@ -105,6 +399,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -122,16 +417,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BuildConfigurationList = {
+		50000002000000000000001 /* Build configuration list for PBXProject "FarmManager" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				Debug,
-				Release,
+				40000001000000000000001 /* Debug */,
+				40000002000000000000001 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		60000002000000000000001 /* Build configuration list for PBXNativeTarget "FarmManager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				40000003000000000000001 /* Debug */,
+				40000004000000000000001 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = MainProject;
+	rootObject = 50000001000000000000001 /* Project object */;
 }
