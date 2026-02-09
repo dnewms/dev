@@ -1,0 +1,7 @@
+name = "fishy"
+compatibility_date = "2024-12-01"
+pages_build_output_dir = "dist"
+
+[[kv_namespaces]]
+binding = "CHAT_KV"
+id = "76187ff3858a4a8bae93667e0b6c2cf2"

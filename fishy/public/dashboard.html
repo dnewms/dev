@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>isFishy Dashboard — Your Email Results</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Nunito', Arial, sans-serif;
+      background: linear-gradient(135deg, #E8F4FD 0%, #F0F7FC 50%, #E1ECF5 100%);
+      min-height: 100vh;
+      color: #333;
+    }
+    .header {
+      background: white;
+      border-bottom: 2px solid #D0E4F2;
+      padding: 16px 20px;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    }
+    .header h1 {
+      margin: 0;
+      font-size: 28px;
+      font-weight: 800;
+      color: #1A5276;
+    }
+    .header h1 a {
+      color: #1A5276;
+      text-decoration: none;
+    }
+    .header p {
+      margin: 4px 0 0;
+      font-size: 14px;
+      color: #7A9BB5;
+      font-weight: 600;
+    }
+    .container {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 24px 16px;
+    }
+    .search-box {
+      background: white;
+      border-radius: 16px;
+      padding: 24px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      margin-bottom: 24px;
+    }
+    .search-box label {
+      display: block;
+      font-size: 18px;
+      font-weight: 700;
+      color: #1A5276;
+      margin-bottom: 10px;
+    }
+    .search-row {
+      display: flex;
+      gap: 10px;
+    }
+    .search-row input {
+      flex: 1;
+      padding: 14px 18px;
+      font-family: 'Nunito', Arial, sans-serif;
+      font-size: 17px;
+      font-weight: 600;
+      border: 2px solid #D0E4F2;
+      border-radius: 12px;
+      color: #333;
+      background: #F8FBFD;
+    }
+    .search-row input:focus {
+      outline: none;
+      border-color: #4A90D9;
+      box-shadow: 0 0 0 4px rgba(74,144,217,0.15);
+    }
+    .search-row button {
+      padding: 14px 24px;
+      font-family: 'Nunito', Arial, sans-serif;
+      font-size: 17px;
+      font-weight: 800;
+      color: white;
+      background: #4A90D9;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background 0.2s;
+    }
+    .search-row button:hover { background: #3A7BC8; }
+    .search-row button:disabled { background: #B0C4D8; cursor: default; }
+    .status-msg {
+      text-align: center;
+      font-size: 16px;
+      font-weight: 600;
+      color: #7A9BB5;
+      padding: 32px 16px;
+      line-height: 1.6;
+    }
+    .status-msg .emoji { font-size: 48px; display: block; margin-bottom: 12px; }
+    .results-list { display: flex; flex-direction: column; gap: 12px; }
+    .result-card {
+      background: white;
+      border-radius: 14px;
+      padding: 18px 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      cursor: pointer;
+      transition: box-shadow 0.2s, transform 0.15s;
+      border-left: 5px solid #ccc;
+    }
+    .result-card:hover {
+      box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+      transform: translateY(-1px);
+    }
+    .result-card.safe { border-left-color: #4CAF50; }
+    .result-card.fishy { border-left-color: #FF9800; }
+    .result-card.dangerous { border-left-color: #F44336; }
+    .result-card .card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 6px;
+    }
+    .result-card .verdict-badge {
+      display: inline-block;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .verdict-badge.safe { background: #E8F5E9; color: #2E7D32; }
+    .verdict-badge.fishy { background: #FFF3E0; color: #E65100; }
+    .verdict-badge.dangerous { background: #FFEBEE; color: #C62828; }
+    .result-card .date {
+      font-size: 13px;
+      color: #9CB8CE;
+      font-weight: 600;
+    }
+    .result-card .title {
+      font-size: 17px;
+      font-weight: 700;
+      color: #1A5276;
+      margin: 4px 0;
+    }
+    .result-card .subject {
+      font-size: 14px;
+      color: #7A9BB5;
+      margin: 0;
+    }
+    .detail-view {
+      background: white;
+      border-radius: 16px;
+      padding: 28px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    }
+    .detail-back {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 8px 0;
+      margin-bottom: 12px;
+      font-family: 'Nunito', Arial, sans-serif;
+      font-size: 15px;
+      font-weight: 700;
+      color: #4A90D9;
+      background: none;
+      border: none;
+      cursor: pointer;
+    }
+    .detail-verdict {
+      text-align: center;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    .detail-verdict.safe { background: #E8F5E9; border: 2px solid #4CAF50; }
+    .detail-verdict.fishy { background: #FFF3E0; border: 2px solid #FF9800; }
+    .detail-verdict.dangerous { background: #FFEBEE; border: 2px solid #F44336; }
+    .detail-verdict .emoji { font-size: 40px; margin-bottom: 8px; }
+    .detail-verdict h2 {
+      margin: 0;
+      font-size: 22px;
+      font-weight: 800;
+    }
+    .detail-verdict.safe h2 { color: #2E7D32; }
+    .detail-verdict.fishy h2 { color: #E65100; }
+    .detail-verdict.dangerous h2 { color: #C62828; }
+    .detail-verdict .confidence {
+      font-size: 14px;
+      margin-top: 6px;
+      opacity: 0.8;
+    }
+    .detail-meta {
+      font-size: 13px;
+      color: #999;
+      margin-bottom: 16px;
+    }
+    .detail-explanation {
+      font-size: 17px;
+      color: #333;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+    .detail-section h3 {
+      font-size: 16px;
+      color: #1A5276;
+      margin: 0 0 8px;
+    }
+    .detail-flags {
+      margin: 0 0 20px;
+      padding-left: 20px;
+    }
+    .detail-flags li {
+      font-size: 15px;
+      color: #555;
+      margin-bottom: 6px;
+      line-height: 1.5;
+    }
+    .detail-advice {
+      background: #F0F7FC;
+      border-radius: 10px;
+      padding: 16px;
+      font-size: 16px;
+      font-weight: 700;
+      color: #1A5276;
+    }
+    .detail-preview {
+      background: #F8FBFD;
+      border: 1px solid #E0EBF2;
+      border-radius: 10px;
+      padding: 14px;
+      font-size: 14px;
+      color: #666;
+      line-height: 1.5;
+      margin-top: 16px;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .poll-indicator {
+      text-align: center;
+      font-size: 12px;
+      color: #B8CCD9;
+      margin-top: 20px;
+    }
+    @media (max-width: 480px) {
+      .search-row { flex-direction: column; }
+      .search-row button { width: 100%; }
+      .header h1 { font-size: 24px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1><a href="/">🐟 isFishy</a></h1>
+    <p>Email Analysis Dashboard</p>
+  </div>
+
+  <div class="container" id="app">
+    <div class="search-box">
+      <label for="email-input">Enter your email to see results:</label>
+      <div class="search-row">
+        <input type="email" id="email-input" placeholder="you@example.com" autocomplete="email">
+        <button id="search-btn" onclick="lookupResults()">Look Up</button>
+      </div>
+    </div>
+    <div id="content"></div>
+    <div class="poll-indicator" id="poll-indicator" style="display:none;">
+      Auto-refreshing every 30 seconds
+    </div>
+  </div>
+
+  <script>
+    let currentEmail = "";
+    let currentKey = "";
+    let currentResults = [];
+    let pollTimer = null;
+    let viewingDetail = null;
+
+    const emailInput = document.getElementById("email-input");
+    const searchBtn = document.getElementById("search-btn");
+    const contentEl = document.getElementById("content");
+    const pollEl = document.getElementById("poll-indicator");
+
+    // Check URL params for secure link access
+    const urlParams = new URLSearchParams(window.location.search);
+    const paramEmail = urlParams.get("email");
+    const paramKey = urlParams.get("key");
+
+    if (paramEmail && paramKey) {
+      // Arrived via secure link from reply email
+      currentEmail = paramEmail;
+      currentKey = paramKey;
+      emailInput.value = paramEmail;
+      localStorage.setItem("fishy_dashboard_email", paramEmail);
+      localStorage.setItem("fishy_dashboard_key", paramKey);
+      setTimeout(() => { fetchResults(); startPolling(); }, 100);
+    } else {
+      // Check localStorage for previously saved credentials
+      const savedEmail = localStorage.getItem("fishy_dashboard_email");
+      const savedKey = localStorage.getItem("fishy_dashboard_key");
+      if (savedEmail && savedKey) {
+        currentEmail = savedEmail;
+        currentKey = savedKey;
+        emailInput.value = savedEmail;
+        setTimeout(() => { fetchResults(); startPolling(); }, 100);
+      }
+    }
+
+    emailInput.addEventListener("keydown", function(e) {
+      if (e.key === "Enter") lookupResults();
+    });
+
+    function lookupResults() {
+      const email = emailInput.value.trim();
+      if (!email) return;
+      currentEmail = email;
+      // If email changed, we need the key from localStorage or URL
+      const storedKey = localStorage.getItem("fishy_dashboard_key");
+      if (storedKey) currentKey = storedKey;
+      if (!currentKey) {
+        contentEl.innerHTML =
+          '<div class="status-msg">' +
+            '<span class="emoji">🔒</span>' +
+            'To view your results, use the secure link from your isFishy reply email.' +
+          '</div>';
+        return;
+      }
+      localStorage.setItem("fishy_dashboard_email", email);
+      viewingDetail = null;
+      fetchResults();
+      startPolling();
+    }
+
+    function startPolling() {
+      if (pollTimer) clearInterval(pollTimer);
+      pollEl.style.display = "block";
+      pollTimer = setInterval(() => {
+        if (!viewingDetail) fetchResults();
+      }, 30000);
+    }
+
+    async function fetchResults() {
+      searchBtn.disabled = true;
+      searchBtn.textContent = "Loading...";
+      try {
+        const resp = await fetch("/api/email-results?email=" + encodeURIComponent(currentEmail) + "&key=" + encodeURIComponent(currentKey));
+        if (resp.status === 401 || resp.status === 403) {
+          contentEl.innerHTML =
+            '<div class="status-msg">' +
+              '<span class="emoji">🔒</span>' +
+              'Access denied. Use the secure link from your isFishy reply email to view results.' +
+            '</div>';
+          if (pollTimer) { clearInterval(pollTimer); pollTimer = null; }
+          searchBtn.disabled = false;
+          searchBtn.textContent = "Look Up";
+          return;
+        }
+        const data = await resp.json();
+        currentResults = data.entries || [];
+        if (!viewingDetail) renderList();
+      } catch (err) {
+        contentEl.innerHTML = '<div class="status-msg">Something went wrong. Please try again.</div>';
+      }
+      searchBtn.disabled = false;
+      searchBtn.textContent = "Look Up";
+    }
+
+    function renderList() {
+      if (currentResults.length === 0) {
+        contentEl.innerHTML =
+          '<div class="status-msg">' +
+            '<span class="emoji">📬</span>' +
+            'No results found yet for <strong>' + escapeHtml(currentEmail) + '</strong>.<br><br>' +
+            'Forward a suspicious email to <strong>check@isfishy.com</strong> and check back here!' +
+          '</div>';
+        return;
+      }
+
+      let html = '<div class="results-list">';
+      for (const r of currentResults) {
+        const verdict = ["safe", "fishy", "dangerous"].includes(r.verdict) ? r.verdict : "fishy";
+        const emoji = verdict === "safe" ? "✅" : verdict === "fishy" ? "🐡" : "🚨";
+        const date = new Date(r.timestamp).toLocaleDateString("en-US", {
+          month: "short", day: "numeric", year: "numeric", hour: "numeric", minute: "2-digit"
+        });
+        html +=
+          '<div class="result-card ' + verdict + '" onclick="showDetail(\'' + escapeHtml(r.id) + '\')">' +
+            '<div class="card-top">' +
+              '<span class="verdict-badge ' + verdict + '">' + emoji + ' ' + escapeHtml(verdict) + '</span>' +
+              '<span class="date">' + escapeHtml(date) + '</span>' +
+            '</div>' +
+            '<div class="title">' + escapeHtml(r.title) + '</div>' +
+            '<p class="subject">' + escapeHtml(r.subject) + '</p>' +
+          '</div>';
+      }
+      html += '</div>';
+      contentEl.innerHTML = html;
+    }
+
+    function showDetail(id) {
+      const r = currentResults.find(e => e.id === id);
+      if (!r) return;
+      viewingDetail = id;
+
+      const verdict = ["safe", "fishy", "dangerous"].includes(r.verdict) ? r.verdict : "fishy";
+      const emoji = verdict === "safe" ? "✅" : verdict === "fishy" ? "🐡" : "🚨";
+      const date = new Date(r.timestamp).toLocaleDateString("en-US", {
+        weekday: "long", month: "long", day: "numeric", year: "numeric",
+        hour: "numeric", minute: "2-digit"
+      });
+
+      let flagsHtml = "";
+      if (r.redFlags && r.redFlags.length > 0) {
+        flagsHtml =
+          '<div class="detail-section">' +
+            '<h3>🚩 Red Flags</h3>' +
+            '<ul class="detail-flags">' +
+              r.redFlags.map(f => '<li>' + escapeHtml(f) + '</li>').join("") +
+            '</ul>' +
+          '</div>';
+      }
+
+      contentEl.innerHTML =
+        '<div class="detail-view">' +
+          '<button class="detail-back" onclick="backToList()">← Back to results</button>' +
+          '<div class="detail-verdict ' + verdict + '">' +
+            '<div class="emoji">' + emoji + '</div>' +
+            '<h2>' + escapeHtml(r.title) + '</h2>' +
+            '<div class="confidence">Confidence: ' + escapeHtml(String(r.confidence)) + '/10</div>' +
+          '</div>' +
+          '<div class="detail-meta">' + escapeHtml(date) + ' &bull; Subject: ' + escapeHtml(r.subject) + '</div>' +
+          '<div class="detail-explanation">' + escapeHtml(r.explanation) + '</div>' +
+          flagsHtml +
+          '<div class="detail-advice">💡 ' + escapeHtml(r.advice) + '</div>' +
+          (r.bodyPreview
+            ? '<div class="detail-section" style="margin-top:20px;"><h3>Original Email Preview</h3>' +
+              '<div class="detail-preview">' + escapeHtml(r.bodyPreview) + '</div></div>'
+            : '') +
+        '</div>';
+    }
+
+    function backToList() {
+      viewingDetail = null;
+      renderList();
+    }
+
+    function escapeHtml(str) {
+      if (!str) return "";
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    }
+  </script>
+</body>
+</html>
